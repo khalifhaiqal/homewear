@@ -1,0 +1,133 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="homewear.rmall.id" resolutions="1x" timestamp="1594804603158">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4235799627" ref="index"/>
+    <file name="master_a-master.css" crc="100134518" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="banner-slideshow-1.jpg" crc="4253562119" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="banner-slideshow-2.jpg" crc="4026298392" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner-slideshow-3.jpg" crc="495996032" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner-slideshow-4.jpg" crc="3869409906" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="logo home.png" crc="4264423952" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="divider 1-crop-u318.png" crc="85808063" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg-farha.png" crc="114715986" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-farha.png" crc="442724372" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner-farha.png" crc="383351849" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-farha-on.png" crc="16211022" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-farha-off.png" crc="4027428289" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg-sleepwear.png" crc="4133495962" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg-couple.png" crc="469184619" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg-kitchen.png" crc="417439752" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner-kitchen.png" crc="3849328534" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-kitchen.png" crc="4075618139" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-kitchen-on.png" crc="4073326836" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-kitchen-off.png" crc="3773994293" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="by-rabbani.png" crc="30315230" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner-sleepwear.png" crc="509804902" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-sleepware.png" crc="4223764043" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="by-rabbani-p.png" crc="217413724" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-sleepwear-on.png" crc="75096160" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-sleepwear-off.png" crc="294378461" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner-couple.jpg" crc="252283396" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-couple.png" crc="478568502" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-couple-on.png" crc="3772312379" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-couple-off.png" crc="3972848491" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner-bottom.png" crc="289668216" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="subs-headline.png" crc="495776627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-bot.png" crc="3964561231" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg-insert-hp.png" crc="310576103" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-submit-on.png" crc="100590263" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-submit-off.png" crc="4115738212" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-logo.png" crc="513924879" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="copyright.png" crc="100796091" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3988491338" seo="true" mt="1594804588908" redirect="true"/>
+</manifest>
