@@ -2,9 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://homewear.rmall.id/index.html</loc>
-    <lastmod>2020-07-15</lastmod>
+    <lastmod>2020-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo%20home.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://homewear.rmall.id/images/banner-slideshow-1.jpg</image:loc>
     </image:image>
@@ -18,49 +21,7 @@
       <image:loc>http://homewear.rmall.id/images/banner-slideshow-4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://homewear.rmall.id/images/logo%20home.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://homewear.rmall.id/images/divider%201-crop-u318.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://homewear.rmall.id/images/bg-farha.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://homewear.rmall.id/images/logo-farha.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://homewear.rmall.id/images/banner-farha.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://homewear.rmall.id/images/button-farha-on.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://homewear.rmall.id/images/button-farha-off.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://homewear.rmall.id/images/bg-sleepwear.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://homewear.rmall.id/images/bg-couple.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://homewear.rmall.id/images/bg-kitchen.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://homewear.rmall.id/images/banner-kitchen.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://homewear.rmall.id/images/logo-kitchen.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://homewear.rmall.id/images/button-kitchen-on.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://homewear.rmall.id/images/button-kitchen-off.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://homewear.rmall.id/images/by-rabbani.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://homewear.rmall.id/images/banner-sleepwear.png</image:loc>
@@ -78,16 +39,55 @@
       <image:loc>http://homewear.rmall.id/images/button-sleepwear-off.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://homewear.rmall.id/images/bg-couple.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://homewear.rmall.id/images/banner-couple.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://homewear.rmall.id/images/logo-couple.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://homewear.rmall.id/images/by-rabbani.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://homewear.rmall.id/images/button-couple-on.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://homewear.rmall.id/images/button-couple-off.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/bg-kitchen.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/banner-kitchen.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-kitchen.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/button-kitchen-on.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/button-kitchen-off.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/bg-farha.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/divider%201.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-farha.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/banner-farha.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/button-farha-on.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/button-farha-off.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://homewear.rmall.id/images/banner-bottom.png</image:loc>
