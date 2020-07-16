@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="homewear.rmall.id" resolutions="1x" timestamp="1594886643947">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="homewear.rmall.id" resolutions="1x" timestamp="1594887575127">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="355739272" ref="index:farha"/>
     <file name="index.css" crc="320709346" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:farha"/>
     <file name="nomq_index.css" crc="243493538" ref="index"/>
-    <file name="farha.css" crc="4031072127" ref="farha"/>
-    <file name="nomq_farha.css" crc="4058938416" ref="farha"/>
+    <file name="farha.css" crc="323031119" ref="farha"/>
+    <file name="nomq_farha.css" crc="369595495" ref="farha"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:farha"/>
@@ -24,7 +24,7 @@
     <file name="form_check.php" crc="4020933626" ref="farha"/>
     <file name="form_throttle.php" crc="4259590256" ref="farha"/>
     <file name="form_process.php" crc="37464564" ref="farha"/>
-    <file name="form-u3177.php" crc="3956563374" ref="farha"/>
+    <file name="form-u3177.php" crc="3865822748" ref="farha"/>
   </folder>
   <folder name="images">
     <file name="logo home.png" crc="4264423952" seo="true" ref="index:farha">
@@ -302,10 +302,10 @@
     <file name="farha257x158.png" crc="4122111698" seo="true" ref="farha">
       <caption webpage="farha" alt=""/>
     </file>
-    <file name="logo-farha235x177.png" crc="4074202733" seo="true" ref="farha">
+    <file name="logo-farha219x166.png" crc="415940072" seo="true" ref="farha">
       <caption webpage="farha" alt=""/>
     </file>
   </folder>
   <file name="index.html" crc="172202571" seo="true" mt="1594879097481" redirect="true"/>
-  <file name="farha.html" crc="325241879" seo="true" mt="1594886631577" redirect="true"/>
+  <file name="farha.html" crc="4160634029" seo="true" mt="1594887557762" redirect="true"/>
 </manifest>
