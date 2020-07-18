@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://homewear.rmall.id/index.html</loc>
-    <lastmod>2020-07-16</lastmod>
+    <lastmod>2020-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -99,15 +99,6 @@
       <image:loc>http://homewear.rmall.id/images/logo-bot.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://homewear.rmall.id/images/bg-insert-hp.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://homewear.rmall.id/images/button-submit-on.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://homewear.rmall.id/images/button-submit-off.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://homewear.rmall.id/images/logo-logo.png</image:loc>
     </image:image>
     <image:image>
@@ -156,12 +147,12 @@
       <image:loc>http://homewear.rmall.id/images/banner-farha190x278.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://homewear.rmall.id/images/banner-bottom195x119.png</image:loc>
+      <image:loc>http://homewear.rmall.id/images/banner-bottom164x101.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://homewear.rmall.id/farha.html</loc>
-    <lastmod>2020-07-16</lastmod>
+    <lastmod>2020-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -201,12 +192,6 @@
       <image:loc>http://homewear.rmall.id/images/st%20piyama%20farha%20girl.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://homewear.rmall.id/images/xs%20-%20s%20-%20m%20-%20l%20-%20xl%20-%20xxl.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://homewear.rmall.id/images/1-2,%203-4,%205-6,%207-8,%209-10%20tahun.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://homewear.rmall.id/images/bahan.png</image:loc>
     </image:image>
     <image:image>
@@ -229,6 +214,33 @@
     </image:image>
     <image:image>
       <image:loc>http://homewear.rmall.id/images/logo-farha219x166.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/homewear%201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/homewear%202.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/homewear%203.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/homewear%204.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/ukuran.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/homewear%201118x118.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/homewear%202118x118.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/homewear%203118x118.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/homewear%204118x118.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

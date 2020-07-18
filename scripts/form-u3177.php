@@ -132,6 +132,20 @@ $form = array(
 			'errors' => array(
 			)
 		),
+		'custom_U4870' => array(
+			'order' => 11,
+			'type' => 'checkboxgroup',
+			'label' => 'ST. PIYAMA FARHA BOY',
+			'required' => false,
+			'optionItems' => array(
+				'Grey',
+				'Dusty Pink',
+				'Sand'
+			),
+			'errors' => array(
+				'format' => 'Field \'ST. PIYAMA FARHA BOY\' has an invalid value.'
+			)
+		),
 		'custom_U5049' => array(
 			'order' => 14,
 			'type' => 'checkboxgroup',
@@ -144,20 +158,6 @@ $form = array(
 			),
 			'errors' => array(
 				'format' => 'Field \'ST. PIYAMA FARHA GIRL\' has an invalid value.'
-			)
-		),
-		'custom_U4754' => array(
-			'order' => 8,
-			'type' => 'checkboxgroup',
-			'label' => 'ST. PIYAMA FARHA MOM',
-			'required' => false,
-			'optionItems' => array(
-				'Grey',
-				'Dusty Pink',
-				'Sand'
-			),
-			'errors' => array(
-				'format' => 'Field \'ST. PIYAMA FARHA MOM\' has an invalid value.'
 			)
 		),
 		'custom_U4563' => array(
@@ -174,10 +174,10 @@ $form = array(
 				'format' => 'Field \'ST. PIYAMA FARHA DAD\' has an invalid value.'
 			)
 		),
-		'custom_U4870' => array(
-			'order' => 11,
+		'custom_U4754' => array(
+			'order' => 8,
 			'type' => 'checkboxgroup',
-			'label' => 'ST. PIYAMA FARHA BOY',
+			'label' => 'ST. PIYAMA FARHA MOM',
 			'required' => false,
 			'optionItems' => array(
 				'Grey',
@@ -185,7 +185,7 @@ $form = array(
 				'Sand'
 			),
 			'errors' => array(
-				'format' => 'Field \'ST. PIYAMA FARHA BOY\' has an invalid value.'
+				'format' => 'Field \'ST. PIYAMA FARHA MOM\' has an invalid value.'
 			)
 		)
 	)

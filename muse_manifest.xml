@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="homewear.rmall.id" resolutions="1x" timestamp="1594887575127">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="homewear.rmall.id" resolutions="1x" timestamp="1595053933959">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="355739272" ref="index:farha"/>
-    <file name="index.css" crc="320709346" ref="index"/>
+    <file name="master_a-master.css" crc="22998963" ref="index:farha"/>
+    <file name="index.css" crc="3815216983" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:farha"/>
-    <file name="nomq_index.css" crc="243493538" ref="index"/>
-    <file name="farha.css" crc="323031119" ref="farha"/>
-    <file name="nomq_farha.css" crc="369595495" ref="farha"/>
+    <file name="nomq_index.css" crc="521364075" ref="index"/>
+    <file name="farha.css" crc="351782245" ref="farha"/>
+    <file name="nomq_farha.css" crc="3843349196" ref="farha"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:farha"/>
@@ -21,10 +21,11 @@
     <file name="require.js" crc="7928878" ref="index:farha"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index:farha"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="farha"/>
-    <file name="form_check.php" crc="4020933626" ref="farha"/>
-    <file name="form_throttle.php" crc="4259590256" ref="farha"/>
-    <file name="form_process.php" crc="37464564" ref="farha"/>
-    <file name="form-u3177.php" crc="3865822748" ref="farha"/>
+    <file name="form_check.php" crc="4020933626" ref="index:farha"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index:farha"/>
+    <file name="form_process.php" crc="37464564" ref="index:farha"/>
+    <file name="form-u3177.php" crc="4238481424" ref="farha"/>
+    <file name="form-u6121.php" crc="409271390" ref="index"/>
   </folder>
   <folder name="images">
     <file name="logo home.png" crc="4264423952" seo="true" ref="index:farha">
@@ -105,11 +106,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="button-kitchen-on.png" crc="4073326836" seo="true" ref="index">
+    <file name="button-kitchen-on.png" crc="4169605467" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="button-kitchen-off.png" crc="3773994293" seo="true" ref="index">
+    <file name="button-kitchen-off.png" crc="172147910" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -148,18 +149,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="logo-bot.png" crc="3964561231" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bg-insert-hp.png" crc="310576103" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="button-submit-on.png" crc="100590263" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="button-submit-off.png" crc="4115738212" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -217,16 +206,9 @@
     <file name="banner-farha190x278.png" crc="56527237" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="banner-bottom195x119.png" crc="419891357" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="farha.png" crc="348457031" seo="true" ref="farha">
       <caption webpage="farha" alt=""/>
     </file>
-    <file name="dad-u3764.png" crc="36620853" ref="farha"/>
-    <file name="mom-u3776.png" crc="148452471" ref="farha"/>
-    <file name="boy-u3784.png" crc="4211216792" ref="farha"/>
-    <file name="girl-u3791.png" crc="329766988" ref="farha"/>
     <file name="st piyama farha dad.png" crc="170755317" seo="true" ref="farha">
       <caption webpage="farha" alt=""/>
       <caption webpage="farha" alt=""/>
@@ -261,22 +243,6 @@
     <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="farha">
       <caption webpage="farha" alt=""/>
     </file>
-    <file name="dad-u37642.png" crc="4293636271" ref="farha"/>
-    <file name="mom-u37762.png" crc="126376146" ref="farha"/>
-    <file name="girl-u37912.png" crc="12281289" ref="farha"/>
-    <file name="boy-u37842.png" crc="3962349614" ref="farha"/>
-    <file name="xs - s - m - l - xl - xxl.png" crc="236581092" seo="true" ref="farha">
-      <caption webpage="farha" alt=""/>
-      <caption webpage="farha" alt=""/>
-      <caption webpage="farha" alt=""/>
-      <caption webpage="farha" alt=""/>
-    </file>
-    <file name="1-2, 3-4, 5-6, 7-8, 9-10 tahun.png" crc="4045642792" seo="true" ref="farha">
-      <caption webpage="farha" alt=""/>
-      <caption webpage="farha" alt=""/>
-      <caption webpage="farha" alt=""/>
-      <caption webpage="farha" alt=""/>
-    </file>
     <file name="bahan.png" crc="3976016377" seo="true" ref="farha">
       <caption webpage="farha" alt=""/>
       <caption webpage="farha" alt=""/>
@@ -305,7 +271,38 @@
     <file name="logo-farha219x166.png" crc="415940072" seo="true" ref="farha">
       <caption webpage="farha" alt=""/>
     </file>
+    <file name="banner-bottom164x101.png" crc="465390598" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="homewear 1.jpg" crc="4260080508" seo="true" ref="farha">
+      <caption webpage="farha" alt=""/>
+    </file>
+    <file name="homewear 2.jpg" crc="96376987" seo="true" ref="farha">
+      <caption webpage="farha" alt=""/>
+    </file>
+    <file name="homewear 3.jpg" crc="3982792227" seo="true" ref="farha">
+      <caption webpage="farha" alt=""/>
+    </file>
+    <file name="homewear 4.jpg" crc="79736287" seo="true" ref="farha">
+      <caption webpage="farha" alt=""/>
+    </file>
+    <file name="ukuran.png" crc="4144159746" seo="true" ref="farha">
+      <caption webpage="farha" alt=""/>
+      <caption webpage="farha" alt=""/>
+    </file>
+    <file name="homewear 1118x118.jpg" crc="14813670" seo="true" ref="farha">
+      <caption webpage="farha" alt=""/>
+    </file>
+    <file name="homewear 2118x118.jpg" crc="4125007812" seo="true" ref="farha">
+      <caption webpage="farha" alt=""/>
+    </file>
+    <file name="homewear 3118x118.jpg" crc="514713368" seo="true" ref="farha">
+      <caption webpage="farha" alt=""/>
+    </file>
+    <file name="homewear 4118x118.jpg" crc="148708114" seo="true" ref="farha">
+      <caption webpage="farha" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="172202571" seo="true" mt="1594879097481" redirect="true"/>
-  <file name="farha.html" crc="4160634029" seo="true" mt="1594887557762" redirect="true"/>
+  <file name="index.html" crc="362006937" seo="true" mt="1595053815380" redirect="true"/>
+  <file name="farha.html" crc="112645413" seo="true" mt="1595053598004" redirect="true"/>
 </manifest>
