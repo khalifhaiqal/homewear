@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="homewear.rmall.id" resolutions="1x" timestamp="1595053933959">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="homewear.rmall.id" resolutions="1x" timestamp="1595055978942">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="22998963" ref="index:farha"/>
-    <file name="index.css" crc="3815216983" ref="index"/>
+    <file name="index.css" crc="403574956" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:farha"/>
-    <file name="nomq_index.css" crc="521364075" ref="index"/>
-    <file name="farha.css" crc="351782245" ref="farha"/>
-    <file name="nomq_farha.css" crc="3843349196" ref="farha"/>
+    <file name="nomq_index.css" crc="297536185" ref="index"/>
+    <file name="farha.css" crc="324196130" ref="farha"/>
+    <file name="nomq_farha.css" crc="3783576816" ref="farha"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:farha"/>
@@ -24,7 +24,7 @@
     <file name="form_check.php" crc="4020933626" ref="index:farha"/>
     <file name="form_throttle.php" crc="4259590256" ref="index:farha"/>
     <file name="form_process.php" crc="37464564" ref="index:farha"/>
-    <file name="form-u3177.php" crc="4238481424" ref="farha"/>
+    <file name="form-u3177.php" crc="116865505" ref="farha"/>
     <file name="form-u6121.php" crc="409271390" ref="index"/>
   </folder>
   <folder name="images">
@@ -62,14 +62,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="button-sleepwear-on.png" crc="75096160" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="button-sleepwear-off.png" crc="294378461" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="bg-couple.png" crc="469184619" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -88,14 +80,6 @@
       <caption webpage="farha" alt=""/>
       <caption webpage="farha" alt=""/>
     </file>
-    <file name="button-couple-on.png" crc="3772312379" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="button-couple-off.png" crc="3972848491" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="bg-kitchen.png" crc="417439752" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -103,14 +87,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="logo-kitchen.png" crc="4075618139" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="button-kitchen-on.png" crc="4169605467" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="button-kitchen-off.png" crc="172147910" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -129,13 +105,13 @@
     <file name="banner-farha.png" crc="383351849" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="button-farha-on.png" crc="16211022" seo="true" ref="index:farha">
+    <file name="button-farha-on.png" crc="16211022" seo="true" ref="farha">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="farha" alt=""/>
       <caption webpage="farha" alt=""/>
     </file>
-    <file name="button-farha-off.png" crc="4027428289" seo="true" ref="index:farha">
+    <file name="button-farha-off.png" crc="4027428289" seo="true" ref="farha:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="farha" alt=""/>
@@ -290,19 +266,39 @@
       <caption webpage="farha" alt=""/>
       <caption webpage="farha" alt=""/>
     </file>
-    <file name="homewear 1118x118.jpg" crc="14813670" seo="true" ref="farha">
+    <file name="homewear 1161x161.jpg" crc="111560669" seo="true" ref="farha">
       <caption webpage="farha" alt=""/>
     </file>
-    <file name="homewear 2118x118.jpg" crc="4125007812" seo="true" ref="farha">
+    <file name="homewear 2161x161.jpg" crc="3922818082" seo="true" ref="farha">
       <caption webpage="farha" alt=""/>
     </file>
-    <file name="homewear 3118x118.jpg" crc="514713368" seo="true" ref="farha">
+    <file name="homewear 3161x161.jpg" crc="4060815917" seo="true" ref="farha">
       <caption webpage="farha" alt=""/>
     </file>
-    <file name="homewear 4118x118.jpg" crc="148708114" seo="true" ref="farha">
+    <file name="homewear 4161x161.jpg" crc="4111309486" seo="true" ref="farha">
       <caption webpage="farha" alt=""/>
     </file>
+    <file name="button-sleepwear-off.png" crc="294378461" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-couple-off.png" crc="3972848491" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-kitchen-off.png" crc="172147910" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-farha-on-u569.png" crc="3994846428" ref="index"/>
+    <file name="button-farha-on-u5692.png" crc="4096400135" ref="index"/>
+    <file name="button-sleepwear-on-u933.png" crc="3760672197" ref="index"/>
+    <file name="button-couple-on-u759.png" crc="3888331223" ref="index"/>
+    <file name="button-kitchen-on-u687.png" crc="3847724491" ref="index"/>
+    <file name="button-sleepwear-on-u9332.png" crc="3853880390" ref="index"/>
+    <file name="button-couple-on-u7592.png" crc="54769246" ref="index"/>
+    <file name="button-kitchen-on-u6872.png" crc="211297936" ref="index"/>
   </folder>
-  <file name="index.html" crc="362006937" seo="true" mt="1595053815380" redirect="true"/>
-  <file name="farha.html" crc="112645413" seo="true" mt="1595053598004" redirect="true"/>
+  <file name="index.html" crc="312214343" seo="true" mt="1595055812514" redirect="true"/>
+  <file name="farha.html" crc="4052189425" seo="true" mt="1595055962000" redirect="true"/>
 </manifest>
