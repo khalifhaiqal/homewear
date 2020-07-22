@@ -1,22 +1,22 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="homewear.rmall.id" resolutions="1x" timestamp="1595393153653">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="homewear.rmall.id" resolutions="1x" timestamp="1595393711131">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="411111690" ref="farha:index:finela"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="farha:index:finela"/>
+    <file name="master_a-master.css" crc="411111690" ref="farha:index:liyana"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="farha:index:liyana"/>
     <file name="farha.css" crc="190149116" ref="farha"/>
     <file name="nomq_farha.css" crc="317708308" ref="farha"/>
-    <file name="index.css" crc="389375693" ref="index"/>
-    <file name="nomq_index.css" crc="424027320" ref="index"/>
-    <file name="finela.css" crc="3808407651" ref="finela"/>
-    <file name="nomq_finela.css" crc="462864532" ref="finela"/>
+    <file name="index.css" crc="4248459994" ref="index"/>
+    <file name="nomq_index.css" crc="3961569901" ref="index"/>
+    <file name="liyana.css" crc="3808407651" ref="liyana"/>
+    <file name="nomq_liyana.css" crc="462864532" ref="liyana"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:farha:finela"/>
-    <file name="museutils.js" crc="340535759" ref="index:farha:finela"/>
-    <file name="whatinput.js" crc="86476730" ref="index:farha:finela"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:farha:finela"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:farha:finela"/>
-    <file name="webpro.js" crc="4059564322" ref="index:farha:finela"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:farha:liyana"/>
+    <file name="museutils.js" crc="340535759" ref="index:farha:liyana"/>
+    <file name="whatinput.js" crc="86476730" ref="index:farha:liyana"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:farha:liyana"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:farha:liyana"/>
+    <file name="webpro.js" crc="4059564322" ref="index:farha:liyana"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
@@ -24,24 +24,26 @@
     <file name="form_throttle.php" crc="4259590256" ref="index:farha"/>
     <file name="form_process.php" crc="37464564" ref="index:farha"/>
     <file name="form-u6121.php" crc="409271390" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index:farha:finela"/>
-    <file name="require.js" crc="7928878" ref="index:farha:finela"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:farha:liyana"/>
+    <file name="require.js" crc="7928878" ref="index:farha:liyana"/>
     <file name="form-u6979.php" crc="112211348" ref="farha"/>
-    <file name="form-u8202.php" crc="378904053" ref="finela"/>
+    <file name="form-u8202.php" crc="378904053" ref="liyana"/>
   </folder>
   <folder name="images">
-    <file name="logo-home.png" crc="3964396933" seo="true" ref="index:farha:finela">
+    <file name="logo-home.png" crc="3964396933" seo="true" ref="index:farha:liyana">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="farha" alt=""/>
       <caption webpage="farha" alt=""/>
       <caption webpage="finela" alt=""/>
       <caption webpage="finela" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
     </file>
     <file name="banner-slideshow-1.jpg" crc="3951465422" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:farha:finela"/>
+    <file name="blank.gif" crc="4208392903" ref="index:farha:liyana"/>
     <file name="banner-slideshow-2.jpg" crc="3993586510" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -58,7 +60,7 @@
     <file name="bg-sleepwear.png" crc="4133495962" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="banner-sleepwear.png" crc="509804902" seo="true" ref="index">
+    <file name="banner-sleepwear.png" crc="3896461176" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="button-sleepwear-on-u933.png" crc="3760672197" ref="index"/>
@@ -73,9 +75,6 @@
     <file name="bg-couple.png" crc="469184619" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="banner-couple.jpg" crc="252283396" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="button-couple-on-u759.png" crc="3888331223" ref="index"/>
     <file name="button-couple-off.png" crc="3972848491" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -88,7 +87,7 @@
     <file name="bg-kitchen.png" crc="417439752" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="banner-kitchen.png" crc="3849328534" seo="true" ref="index">
+    <file name="banner-kitchen.png" crc="3846488915" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="button-kitchen-on-u687.png" crc="3847724491" ref="index"/>
@@ -107,13 +106,17 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="button-finela-on-u7830.png" crc="4161572305" ref="index"/>
-    <file name="button-finela-off.png" crc="3889063847" seo="true" ref="index:finela">
+    <file name="button-finela-off.png" crc="3889063847" seo="true" ref="index:liyana">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="finela" alt=""/>
       <caption webpage="finela" alt=""/>
       <caption webpage="finela" alt=""/>
       <caption webpage="finela" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
     </file>
     <file name="bg-farha.png" crc="114715986" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -129,7 +132,7 @@
       <caption webpage="finela" alt=""/>
       <caption webpage="finela" alt=""/>
     </file>
-    <file name="banner-farha.png" crc="383351849" seo="true" ref="index">
+    <file name="banner-farha.png" crc="165939470" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="button-farha-on-u569.png" crc="3994846428" ref="index"/>
@@ -145,42 +148,51 @@
       <caption webpage="finela" alt=""/>
       <caption webpage="finela" alt=""/>
     </file>
-    <file name="banner-bottom.png" crc="289668216" seo="true" ref="index:farha:finela">
+    <file name="banner-bottom.png" crc="289668216" seo="true" ref="index:farha:liyana">
       <caption webpage="index" alt=""/>
       <caption webpage="farha" alt=""/>
       <caption webpage="finela" alt=""/>
+      <caption webpage="liyana" alt=""/>
     </file>
-    <file name="subs-headline.png" crc="495776627" seo="true" ref="index:farha:finela">
+    <file name="subs-headline.png" crc="495776627" seo="true" ref="index:farha:liyana">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="farha" alt=""/>
       <caption webpage="farha" alt=""/>
       <caption webpage="finela" alt=""/>
       <caption webpage="finela" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
     </file>
-    <file name="logo-bot.png" crc="3964561231" seo="true" ref="index:farha:finela">
+    <file name="logo-bot.png" crc="3964561231" seo="true" ref="index:farha:liyana">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="farha" alt=""/>
       <caption webpage="farha" alt=""/>
       <caption webpage="finela" alt=""/>
       <caption webpage="finela" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
     </file>
-    <file name="logo-logo.png" crc="513924879" seo="true" ref="index:farha:finela">
+    <file name="logo-logo.png" crc="513924879" seo="true" ref="index:farha:liyana">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="farha" alt=""/>
       <caption webpage="farha" alt=""/>
       <caption webpage="finela" alt=""/>
       <caption webpage="finela" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
     </file>
-    <file name="copyright.png" crc="100796091" seo="true" ref="index:farha:finela">
+    <file name="copyright.png" crc="100796091" seo="true" ref="index:farha:liyana">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="farha" alt=""/>
       <caption webpage="farha" alt=""/>
       <caption webpage="finela" alt=""/>
       <caption webpage="finela" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
     </file>
     <file name="banner-slideshow-1385x233.jpg" crc="348307138" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -197,20 +209,14 @@
     <file name="banner-slideshow-5385x233.jpg" crc="156615397" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="banner-sleepwear385x152.png" crc="317909313" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="button-sleepwear-on-u9332.png" crc="3853880390" ref="index"/>
-    <file name="banner-couple384x151.jpg" crc="458730460" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="button-couple-on-u7592.png" crc="54769246" ref="index"/>
     <file name="button-kitchen-on-u6872.png" crc="211297936" ref="index"/>
     <file name="banner-finela193x245.png" crc="516081752" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="button-finela-on-u78302.png" crc="419459716" ref="index"/>
-    <file name="banner-farha190x278.png" crc="56527237" seo="true" ref="index">
+    <file name="banner-farha190x278.png" crc="4000015148" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="button-farha-on-u5692.png" crc="4096400135" ref="index"/>
@@ -286,11 +292,13 @@
       <caption webpage="finela" alt=""/>
       <caption webpage="finela" alt=""/>
     </file>
-    <file name="ukuran.png" crc="4144159746" seo="true" ref="farha:finela">
+    <file name="ukuran.png" crc="4144159746" seo="true" ref="farha:liyana">
       <caption webpage="farha" alt=""/>
       <caption webpage="farha" alt=""/>
       <caption webpage="finela" alt=""/>
       <caption webpage="finela" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
     </file>
     <file name="bg-farha-crop-u29432.png" crc="48945660" seo="true" ref="farha">
       <caption webpage="farha" alt=""/>
@@ -310,39 +318,52 @@
     <file name="homewear 4161x161.jpg" crc="48200968" seo="true" ref="farha">
       <caption webpage="farha" alt=""/>
     </file>
-    <file name="bg-finela-crop-u8256.png" crc="3939952611" seo="true" ref="finela">
+    <file name="bg-finela-crop-u8256.png" crc="3939952611" seo="true" ref="liyana">
       <caption webpage="finela" alt=""/>
+      <caption webpage="liyana" alt=""/>
     </file>
-    <file name="bg-finela-1-crop-u8236.png" crc="3839579974" seo="true" ref="finela">
+    <file name="bg-finela-1-crop-u8236.png" crc="3839579974" seo="true" ref="liyana">
       <caption webpage="finela" alt=""/>
+      <caption webpage="liyana" alt=""/>
     </file>
-    <file name="bg-finela-crop-u82562.png" crc="4042899853" seo="true" ref="finela">
+    <file name="bg-finela-crop-u82562.png" crc="4042899853" seo="true" ref="liyana">
       <caption webpage="finela" alt=""/>
+      <caption webpage="liyana" alt=""/>
     </file>
-    <file name="button-finela-on.png" crc="47745934" seo="true" ref="finela">
+    <file name="button-finela-on.png" crc="47745934" seo="true" ref="liyana">
       <caption webpage="finela" alt=""/>
       <caption webpage="finela" alt=""/>
       <caption webpage="finela" alt=""/>
       <caption webpage="finela" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
     </file>
-    <file name="finela 1.jpg" crc="387820035" seo="true" ref="finela">
+    <file name="finela 1.jpg" crc="387820035" seo="true" ref="liyana">
       <caption webpage="finela" alt=""/>
+      <caption webpage="liyana" alt=""/>
     </file>
-    <file name="finela 2.jpg" crc="157454233" seo="true" ref="finela">
+    <file name="finela 2.jpg" crc="157454233" seo="true" ref="liyana">
       <caption webpage="finela" alt=""/>
+      <caption webpage="liyana" alt=""/>
     </file>
-    <file name="finela 1161x161.jpg" crc="55225648" seo="true" ref="finela">
+    <file name="finela 1161x161.jpg" crc="55225648" seo="true" ref="liyana">
       <caption webpage="finela" alt=""/>
+      <caption webpage="liyana" alt=""/>
     </file>
-    <file name="finela 2161x161.jpg" crc="4197334759" seo="true" ref="finela">
+    <file name="finela 2161x161.jpg" crc="4197334759" seo="true" ref="liyana">
       <caption webpage="finela" alt=""/>
+      <caption webpage="liyana" alt=""/>
     </file>
-    <file name="banner-bottom174x107.png" crc="477911626" seo="true" ref="farha:finela">
+    <file name="banner-bottom174x107.png" crc="477911626" seo="true" ref="farha:liyana">
       <caption webpage="farha" alt=""/>
       <caption webpage="finela" alt=""/>
+      <caption webpage="liyana" alt=""/>
     </file>
-    <file name="bg-finela-1-crop-u82362.png" crc="30626337" seo="true" ref="finela">
+    <file name="bg-finela-1-crop-u82362.png" crc="30626337" seo="true" ref="liyana">
       <caption webpage="finela" alt=""/>
+      <caption webpage="liyana" alt=""/>
     </file>
     <file name="bg-sleepwear-crop-u632.png" crc="3876109025" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -351,9 +372,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="bg-kitchen-crop-u508.png" crc="3846162645" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="banner-kitchen194x238.png" crc="3847117262" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="bg-finela-crop-u7832.png" crc="4130509547" seo="true" ref="index">
@@ -365,30 +383,52 @@
     <file name="divider 1533x120.png" crc="3886396338" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo-liyana.png" crc="452592959" seo="true" ref="index:finela">
+    <file name="logo-liyana.png" crc="452592959" seo="true" ref="index:liyana">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="finela" alt=""/>
       <caption webpage="finela" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
     </file>
-    <file name="liyana mom.png" crc="136365540" seo="true" ref="finela">
+    <file name="liyana mom.png" crc="136365540" seo="true" ref="liyana">
       <caption webpage="finela" alt=""/>
       <caption webpage="finela" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
     </file>
-    <file name="liyana girl.png" crc="33227935" seo="true" ref="finela">
+    <file name="liyana girl.png" crc="33227935" seo="true" ref="liyana">
       <caption webpage="finela" alt=""/>
       <caption webpage="finela" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
     </file>
-    <file name="bahan-liyana.png" crc="4070727990" seo="true" ref="finela">
+    <file name="bahan-liyana.png" crc="4070727990" seo="true" ref="liyana">
       <caption webpage="finela" alt=""/>
       <caption webpage="finela" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
     </file>
-    <file name="warna-liyana.png" crc="432149056" seo="true" ref="finela">
+    <file name="warna-liyana.png" crc="432149056" seo="true" ref="liyana">
       <caption webpage="finela" alt=""/>
       <caption webpage="finela" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
+    </file>
+    <file name="banner-couple.png" crc="2666266" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner-sleepwear384x152.png" crc="407364550" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner-couple384x151.png" crc="3780546074" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner-kitchen194x237.png" crc="4003224541" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="523847961" seo="true" mt="1595392697387" redirect="true"/>
+  <file name="index.html" crc="95437931" seo="true" mt="1595393672462" redirect="true"/>
   <file name="farha.html" crc="169589824" seo="true" mt="1595389488560" redirect="true"/>
-  <file name="finela.html" crc="3947664953" seo="true" mt="1595393142043" redirect="true"/>
+  <file name="liyana.html" crc="3774620301" seo="true" mt="1595393517076" redirect="true"/>
 </manifest>

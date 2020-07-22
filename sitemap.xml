@@ -39,9 +39,6 @@
       <image:loc>http://homewear.rmall.id/images/bg-couple.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://homewear.rmall.id/images/banner-couple.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://homewear.rmall.id/images/button-couple-off.png</image:loc>
     </image:image>
     <image:image>
@@ -114,12 +111,6 @@
       <image:loc>http://homewear.rmall.id/images/banner-slideshow-5385x233.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://homewear.rmall.id/images/banner-sleepwear385x152.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://homewear.rmall.id/images/banner-couple384x151.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://homewear.rmall.id/images/banner-finela193x245.png</image:loc>
     </image:image>
     <image:image>
@@ -138,9 +129,6 @@
       <image:loc>http://homewear.rmall.id/images/bg-kitchen-crop-u508.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://homewear.rmall.id/images/banner-kitchen194x238.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://homewear.rmall.id/images/bg-finela-crop-u7832.png</image:loc>
     </image:image>
     <image:image>
@@ -151,6 +139,18 @@
     </image:image>
     <image:image>
       <image:loc>http://homewear.rmall.id/images/logo-liyana.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/banner-couple.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/banner-sleepwear384x152.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/banner-couple384x151.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/banner-kitchen194x237.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -247,7 +247,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://homewear.rmall.id/finela.html</loc>
+    <loc>http://homewear.rmall.id/liyana.html</loc>
     <lastmod>2020-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
