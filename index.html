@@ -11,18 +11,18 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.museresponsive.js", "require.js", "index.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "musewpdisclosure.js", "jquery.museresponsive.js", "require.js", "index.css"], "outOfDate":[]};
 </script>
   
   <title>Homewear by Rabbani</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=411111690"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4248459994" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=46169332" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=3824530138"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=3961569901" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=3764578970" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -44,104 +44,135 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_img_src" id="u94_img" data-orig-src="images/logo-home.png?crc=3964396933" alt="" width="136" height="88" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <div class="clearfix colelem" id="pslideshowu144"><!-- group -->
-      <div class="SlideShowWidget clearfix grpelem" id="slideshowu144" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- none box -->
-       <div class="popup_anchor" id="u155popup">
-        <div class="SlideShowContentPanel clearfix" id="u155" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- stack box -->
-         <div class="SSSlide clip_frame grpelem" id="u158" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image -->
-          <img class="block ImageInclude" id="u158_img" data-src="images/banner-slideshow-1.jpg?crc=3951465422" src="images/blank.gif?crc=4208392903" alt="" data-width="696" data-height="420"/>
-         </div>
-         <div class="SSSlide invi clip_frame grpelem" id="u373" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image -->
-          <img class="block ImageInclude" id="u373_img" data-src="images/banner-slideshow-2.jpg?crc=3993586510" src="images/blank.gif?crc=4208392903" alt="" data-width="696" data-height="420"/>
-         </div>
-         <div class="SSSlide invi clip_frame grpelem" id="u399" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image -->
-          <img class="block ImageInclude" id="u399_img" data-src="images/banner-slideshow-3.jpg?crc=4262470872" src="images/blank.gif?crc=4208392903" alt="" data-width="696" data-height="420"/>
-         </div>
-         <div class="SSSlide invi clip_frame grpelem" id="u425" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image -->
-          <img class="block ImageInclude" id="u425_img" data-src="images/banner-slideshow-4.jpg?crc=4197532995" src="images/blank.gif?crc=4208392903" alt="" data-width="696" data-height="420"/>
-         </div>
-         <div class="SSSlide invi clip_frame grpelem" id="u7777" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image -->
-          <img class="block ImageInclude" id="u7777_img" data-src="images/banner-slideshow-5.jpg?crc=182781247" src="images/blank.gif?crc=4208392903" alt="" data-width="696" data-height="420"/>
-         </div>
+     <div class="SlideShowWidget clearfix colelem" id="slideshowu144" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- none box -->
+      <div class="popup_anchor" id="u155popup">
+       <div class="SlideShowContentPanel clearfix" id="u155" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- stack box -->
+        <div class="SSSlide clip_frame grpelem" id="u158" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image -->
+         <img class="block ImageInclude" id="u158_img" data-src="images/banner-slideshow-1.jpg?crc=3951465422" src="images/blank.gif?crc=4208392903" alt="" data-width="696" data-height="420"/>
+        </div>
+        <div class="SSSlide invi clip_frame grpelem" id="u373" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image -->
+         <img class="block ImageInclude" id="u373_img" data-src="images/banner-slideshow-2.jpg?crc=169404166" src="images/blank.gif?crc=4208392903" alt="" data-width="696" data-height="420"/>
+        </div>
+        <div class="SSSlide invi clip_frame grpelem" id="u399" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image -->
+         <img class="block ImageInclude" id="u399_img" data-src="images/banner-slideshow-3.jpg?crc=4262470872" src="images/blank.gif?crc=4208392903" alt="" data-width="696" data-height="420"/>
+        </div>
+        <div class="SSSlide invi clip_frame grpelem" id="u425" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image -->
+         <img class="block ImageInclude" id="u425_img" data-src="images/banner-slideshow-4.jpg?crc=4007586550" src="images/blank.gif?crc=4208392903" alt="" data-width="696" data-height="420"/>
+        </div>
+        <div class="SSSlide invi clip_frame grpelem" id="u7777" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image -->
+         <img class="block ImageInclude" id="u7777_img" data-src="images/banner-slideshow-5.jpg?crc=4292032992" src="images/blank.gif?crc=4208392903" alt="" data-width="696" data-height="420"/>
         </div>
        </div>
       </div>
-      <div class="clip_frame grpelem" id="u632" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- image -->
-       <img class="block temp_no_img_src" id="u632_img" data-orig-src="images/bg-sleepwear.png?crc=4133495962" alt="" width="1024" height="664" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem" id="u776" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- image -->
-       <img class="block temp_no_img_src" id="u776_img" data-orig-src="images/banner-sleepwear.png?crc=3896461176" alt="" width="694" height="274" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clearfix grpelem shared_content" id="u930-4" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-content-guid="u930-4_content"><!-- content -->
-       <p id="u930-2">Semua yang baik dimulai dari diri sendiri Coming Soon Busana Terbaru Di Rumah aja by Rabbani</p>
-      </div>
-      <img class="grpelem temp_no_img_src" id="u933" alt="" width="273" height="52" data-orig-src="images/button-sleepwear-on-u933.png?crc=3760672197" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
-      <a class="nonblock nontext anim_swing clip_frame grpelem" id="u935" href="index.html#coming-soon" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- image --><img class="block temp_no_img_src" id="u935_img" data-orig-src="images/button-sleepwear-off.png?crc=294378461" alt="" width="267" height="47" src="images/blank.gif?crc=4208392903"/></a>
-      <div class="clip_frame grpelem" id="u7202"><!-- image -->
-       <img class="block temp_no_img_src" id="u7202_img" data-orig-src="images/logo-sleepwear.png?crc=3862412568" alt="" data-heightwidthratio="0.5638766519823789" data-image-width="227" data-image-height="128" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem" id="u603" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- image -->
-       <img class="block temp_no_img_src" id="u603_img" data-orig-src="images/bg-couple.png?crc=469184619" alt="" width="1024" height="632" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem" id="u699" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- image -->
-       <img class="block temp_no_img_src" id="u699_img" data-orig-src="images/banner-couple.png?crc=2666266" alt="" width="695" height="274" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clearfix grpelem shared_content" id="u732-4" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-content-guid="u732-4_content"><!-- content -->
-       <p id="u732-2">Mulai dari langkah terdekat. mulai dari&nbsp; rumah. Coming Soon Busana Terbaru Di Rumah aja by Rabbani</p>
-      </div>
-      <img class="grpelem temp_no_img_src" id="u759" alt="" width="273" height="52" data-orig-src="images/button-couple-on-u759.png?crc=3888331223" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
-      <a class="nonblock nontext anim_swing clip_frame grpelem" id="u735" href="index.html#coming-soon" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- image --><img class="block temp_no_img_src" id="u735_img" data-orig-src="images/button-couple-off.png?crc=3972848491" alt="" width="267" height="47" src="images/blank.gif?crc=4208392903"/></a>
-      <div class="clip_frame grpelem" id="u7190"><!-- image -->
-       <img class="block temp_no_img_src" id="u7190_img" data-orig-src="images/logo-couple.png?crc=4146125027" alt="" data-heightwidthratio="0.3063063063063063" data-image-width="333" data-image-height="102" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem" id="u508" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- image -->
-       <img class="block temp_no_img_src" id="u508_img" data-orig-src="images/bg-kitchen.png?crc=417439752" alt="" width="1023" height="595" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem" id="u656" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- image -->
-       <img class="block temp_no_img_src" id="u656_img" data-orig-src="images/banner-kitchen.png?crc=3846488915" alt="" width="348" height="426" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clearfix grpelem shared_content" id="u676-6" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-content-guid="u676-6_content"><!-- content -->
-       <p id="u676-2">Momen berharga, beraktivitas bersama.</p>
-       <p id="u676-4">Coming Soon Busana Terbaru Di Rumah aja by Rabbani</p>
-      </div>
-      <img class="grpelem temp_no_img_src" id="u687" alt="" width="273" height="52" data-orig-src="images/button-kitchen-on-u687.png?crc=3847724491" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
-      <a class="nonblock nontext anim_swing clip_frame grpelem" id="u679" href="index.html#coming-soon" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- image --><img class="block temp_no_img_src" id="u679_img" data-orig-src="images/button-kitchen-off.png?crc=172147910" alt="" width="262" height="46" src="images/blank.gif?crc=4208392903"/></a>
-      <a class="anchor_item grpelem shared_content" id="coming-soon" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-content-guid="coming-soon_content"></a>
-      <div class="clip_frame grpelem" id="u7178"><!-- image -->
-       <img class="block temp_no_img_src" id="u7178_img" data-orig-src="images/logo-kitchen.png?crc=3901706674" alt="" data-heightwidthratio="0.6433823529411765" data-image-width="272" data-image-height="175" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem" id="u7832" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- image -->
-       <img class="block temp_no_img_src" id="u7832_img" data-orig-src="images/bg-finela.png?crc=129603552" alt="" width="1023" height="597" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem" id="u7838" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- image -->
-       <img class="block temp_no_img_src" id="u7838_img" data-orig-src="images/banner-finela.png?crc=4108727940" alt="" width="337" height="427" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clearfix grpelem shared_content" id="u7835-6" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-content-guid="u7835-6_content"><!-- content -->
-       <p id="u7835-2">Momen berharga, beraktivitas bersama.</p>
-       <p id="u7835-4">Coming Soon Busana Terbaru Di Rumah aja by Rabbani</p>
-      </div>
-      <img class="grpelem temp_no_img_src" id="u7830" alt="" width="273" height="52" data-orig-src="images/button-finela-on-u7830.png?crc=4161572305" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
-      <a class="nonblock nontext clip_frame grpelem" id="u7840" href="liyana.html" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- image --><img class="block temp_no_img_src" id="u7840_img" data-orig-src="images/button-finela-off.png?crc=3889063847" alt="" width="262" height="46" src="images/blank.gif?crc=4208392903"/></a>
-      <a class="anchor_item grpelem shared_content" id="coming-soon2" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-content-guid="coming-soon2_content"></a>
-      <div class="clip_frame grpelem" id="u7836"><!-- image -->
-       <img class="block temp_no_img_src" id="u7836_img" data-orig-src="images/logo-liyana.png?crc=452592959" alt="" data-heightwidthratio="0.6139705882352942" data-image-width="272" data-image-height="167" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem" id="u521" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- image -->
-       <img class="block temp_no_img_src" id="u521_img" data-orig-src="images/bg-farha.png?crc=114715986" alt="" width="1024" height="606" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame clearfix grpelem" id="u318" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- image -->
-       <img class="position_content temp_no_img_src" id="u318_img" data-orig-src="images/divider%201.png?crc=376927317" alt="" width="1136" height="310" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem" id="u541" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- image -->
-       <img class="block temp_no_img_src" id="u541_img" data-orig-src="images/logo-farha.png?crc=4158924916" alt="" width="369" height="236" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem" id="u551" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- image -->
-       <img class="block temp_no_img_src" id="u551_img" data-orig-src="images/banner-farha.png?crc=165939470" alt="" width="316" height="464" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <img class="grpelem temp_no_img_src" id="u569" alt="" width="272" height="52" data-orig-src="images/button-farha-on-u569.png?crc=3994846428" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
-      <a class="nonblock nontext clip_frame grpelem" id="u561" href="farha.html" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- image --><img class="block temp_no_img_src" id="u561_img" data-orig-src="images/button-farha-off.png?crc=4027428289" alt="" width="267" height="46" src="images/blank.gif?crc=4208392903"/></a>
-      <div class="clearfix grpelem shared_content" id="u642-4" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-content-guid="u642-4_content"><!-- content -->
-       <p id="u642-2">Enjoy your life dimulai dari enjoy dirumah Coming Soon Busana Terbaru Di Rumah aja by Rabbani</p>
+     </div>
+     <div class="clearfix colelem" id="ptab-panelu10310"><!-- group -->
+      <div class="TabbedPanelsWidget clearfix grpelem" id="tab-panelu10310" data-visibility="changed" style="visibility:hidden"><!-- vertical box -->
+       <div class="TabbedPanelsTabGroup borderbox clearfix colelem" id="u10324"><!-- horizontal box -->
+        <div class="TabbedPanelsTab clearfix grpelem" id="u10333"><!-- horizontal box -->
+         <div class="NoWrap clearfix grpelem" id="u10335-4"><!-- content -->
+          <p id="u10335-2" class="shared_content" data-content-guid="u10335-2_content">WEEK 1</p>
+         </div>
+        </div>
+        <div class="TabbedPanelsTab clearfix grpelem" id="u10325"><!-- horizontal box -->
+         <div class="NoWrap clearfix grpelem" id="u10327-4"><!-- content -->
+          <p id="u10327-2" class="shared_content" data-content-guid="u10327-2_content"><span id="u10327">(Coming Soon)</span></p>
+         </div>
+        </div>
+        <div class="TabbedPanelsTab clearfix grpelem" id="u10329"><!-- horizontal box -->
+         <div class="NoWrap clearfix grpelem" id="u10332-4"><!-- content -->
+          <p id="u10332-2" class="shared_content" data-content-guid="u10332-2_content"><span id="u10332">(Coming Soon)</span></p>
+         </div>
+        </div>
+        <div class="TabbedPanelsTab clearfix grpelem" id="u10662"><!-- horizontal box -->
+         <div class="NoWrap clearfix grpelem" id="u10664-4"><!-- content -->
+          <p id="u10664-2" class="shared_content" data-content-guid="u10664-2_content"><span id="u10664">(Coming Soon)</span></p>
+         </div>
+        </div>
+       </div>
+       <div class="TabbedPanelsContentGroup clearfix colelem" id="u10311"><!-- stack box -->
+        <div class="TabbedPanelsContent clearfix grpelem" id="u10320"><!-- group -->
+         <div class="clip_frame grpelem" id="u11559"><!-- image -->
+          <img class="block temp_no_img_src" id="u11559_img" data-orig-src="images/bg-haleema-crop-u11559.png?crc=4080472143" alt="" data-heightwidthratio="0.6513671875" data-image-width="1024" data-image-height="667" src="images/blank.gif?crc=4208392903"/>
+         </div>
+         <div class="clip_frame grpelem" id="u10895"><!-- image -->
+          <img class="block temp_no_img_src" id="u10895_img" data-orig-src="images/bg-kitchen-crop-u10895.png?crc=3953424044" alt="" data-heightwidthratio="0.5845552297165201" data-image-width="1023" data-image-height="598" src="images/blank.gif?crc=4208392903"/>
+         </div>
+         <div class="clip_frame grpelem" id="u11350"><!-- image -->
+          <img class="block temp_no_img_src" id="u11350_img" data-orig-src="images/bg-farabi-crop-u11350.png?crc=201688027" alt="" data-heightwidthratio="0.5546875" data-image-width="1024" data-image-height="568" src="images/blank.gif?crc=4208392903"/>
+         </div>
+         <div class="clip_frame grpelem" id="u10831"><!-- image -->
+          <img class="block temp_no_img_src" id="u10831_img" data-orig-src="images/bg-finela-crop-u10831.png?crc=4245405025" alt="" data-heightwidthratio="0.5874877810361682" data-image-width="1023" data-image-height="601" src="images/blank.gif?crc=4208392903"/>
+         </div>
+         <div class="clip_frame grpelem" id="u10698"><!-- image -->
+          <img class="block temp_no_img_src" id="u10698_img" data-orig-src="images/bg-farha-crop-u10698.png?crc=268693989" alt="" data-heightwidthratio="0.6741463414634147" data-image-width="1025" data-image-height="691" src="images/blank.gif?crc=4208392903"/>
+         </div>
+         <div class="clip_frame grpelem" id="u10602"><!-- image -->
+          <img class="block temp_no_img_src" id="u10602_img" data-orig-src="images/banner-farha.png?crc=165939470" alt="" data-heightwidthratio="1.4678899082568808" data-image-width="327" data-image-height="480" src="images/blank.gif?crc=4208392903"/>
+         </div>
+         <div class="clip_frame grpelem" id="u10709"><!-- image -->
+          <img class="block temp_no_img_src" id="u10709_img" data-orig-src="images/logo-farha.png?crc=4158924916" alt="" data-heightwidthratio="0.6410256410256411" data-image-width="390" data-image-height="250" src="images/blank.gif?crc=4208392903"/>
+         </div>
+         <div class="clearfix grpelem shared_content" id="u10721-4" data-content-guid="u10721-4_content"><!-- content -->
+          <p id="u10721-2">Enjoy your life dimulai dari enjoy dirumah Coming Soon Busana Terbaru Di Rumah aja by Rabbani</p>
+         </div>
+         <img class="grpelem temp_no_img_src" id="u10727" alt="" data-orig-src="images/button-farha-on-u10727.png?crc=468462395" data-image-width="294" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+         <a class="nonblock nontext clip_frame grpelem" id="u10729" href="farha.html"><!-- image --><img class="block temp_no_img_src" id="u10729_img" data-orig-src="images/button-farha-off.png?crc=4027428289" alt="" data-heightwidthratio="0.1736111111111111" data-image-width="288" data-image-height="50" src="images/blank.gif?crc=4208392903"/></a>
+         <div class="clip_frame grpelem" id="u10843"><!-- image -->
+          <img class="block temp_no_img_src" id="u10843_img" data-orig-src="images/banner-finela.png?crc=4108727940" alt="" data-heightwidthratio="1.2670623145400592" data-image-width="337" data-image-height="427" src="images/blank.gif?crc=4208392903"/>
+         </div>
+         <div class="clip_frame grpelem" id="u11382"><!-- image -->
+          <img class="block temp_no_img_src" id="u11382_img" data-orig-src="images/banner-farabi.png?crc=370447510" alt="" data-heightwidthratio="1.1691394658753709" data-image-width="337" data-image-height="394" src="images/blank.gif?crc=4208392903"/>
+         </div>
+         <div class="clip_frame grpelem" id="u10855"><!-- image -->
+          <img class="block temp_no_img_src" id="u10855_img" data-orig-src="images/logo-liyana.png?crc=110717654" alt="" data-heightwidthratio="0.7100591715976331" data-image-width="338" data-image-height="240" src="images/blank.gif?crc=4208392903"/>
+         </div>
+         <div class="clearfix grpelem shared_content" id="u11532-4" data-content-guid="u11532-4_content"><!-- content -->
+          <p id="u11532-2">Semua yang baik dimulai dari diri sendiri Coming Soon Busana Terbaru Di Rumah aja by Rabbani</p>
+         </div>
+         <div class="clip_frame grpelem" id="u11397"><!-- image -->
+          <img class="block temp_no_img_src" id="u11397_img" data-orig-src="images/logo%20farabi.png?crc=4017990151" alt="" data-heightwidthratio="0.5855855855855856" data-image-width="333" data-image-height="195" src="images/blank.gif?crc=4208392903"/>
+         </div>
+         <div class="clearfix grpelem shared_content" id="u10867-6" data-content-guid="u10867-6_content"><!-- content -->
+          <p id="u10867-2">Momen berharga, beraktivitas bersama.</p>
+          <p id="u10867-4">Coming Soon Busana Terbaru Di Rumah aja by Rabbani</p>
+         </div>
+         <div class="clearfix grpelem shared_content" id="u11412-6" data-content-guid="u11412-6_content"><!-- content -->
+          <p id="u11412-2">Momen berharga, beraktivitas bersama.</p>
+          <p id="u11412-4">Coming Soon Busana Terbaru Di Rumah aja by Rabbani</p>
+         </div>
+         <div class="clip_frame grpelem" id="u10907"><!-- image -->
+          <img class="block temp_no_img_src" id="u10907_img" data-orig-src="images/banner-kitchen.png?crc=3846488915" alt="" data-heightwidthratio="1.2238805970149254" data-image-width="335" data-image-height="410" src="images/blank.gif?crc=4208392903"/>
+         </div>
+         <div class="clearfix grpelem shared_content" id="u10909-6" data-content-guid="u10909-6_content"><!-- content -->
+          <p id="u10909-2">Momen berharga, beraktivitas bersama.</p>
+          <p id="u10909-4">Coming Soon Busana TerbaruDi Rumah aja by Rabbani</p>
+         </div>
+         <img class="grpelem temp_no_img_src" id="u10910" alt="" data-orig-src="images/button-kitchen-on-u10910.png?crc=333575024" data-image-width="294" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+         <a class="nonblock nontext clip_frame grpelem" id="u10912" href="homewear.html"><!-- image --><img class="block temp_no_img_src" id="u10912_img" data-orig-src="images/button-kitchen-off.png?crc=126712987" alt="" data-heightwidthratio="0.176056338028169" data-image-width="284" data-image-height="50" src="images/blank.gif?crc=4208392903"/></a>
+         <img class="grpelem temp_no_img_src" id="u11521" alt="" data-orig-src="images/button-haleema-on-u11521.png?crc=284519430" data-image-width="294" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+         <div class="clip_frame grpelem" id="u10914"><!-- image -->
+          <img class="block temp_no_img_src" id="u10914_img" data-orig-src="images/logo-kitchen.png?crc=3901706674" alt="" data-heightwidthratio="0.6405797101449275" data-image-width="345" data-image-height="221" src="images/blank.gif?crc=4208392903"/>
+         </div>
+         <img class="grpelem temp_no_img_src" id="u10868" alt="" data-orig-src="images/button-finela-on-u10868.png?crc=336988188" data-image-width="294" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+         <a class="nonblock nontext clip_frame grpelem" id="u11509" href="haleema.html"><!-- image --><img class="block temp_no_img_src" id="u11509_img" data-orig-src="images/button-haleema-off.png?crc=3966756917" alt="" data-heightwidthratio="0.176056338028169" data-image-width="284" data-image-height="50" src="images/blank.gif?crc=4208392903"/></a>
+         <img class="grpelem temp_no_img_src" id="u11430" alt="" data-orig-src="images/button-farabi-on-u11430.png?crc=81899686" data-image-width="294" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+         <a class="nonblock nontext clip_frame grpelem" id="u10870" href="liyana.html"><!-- image --><img class="block temp_no_img_src" id="u10870_img" data-orig-src="images/button-finela-off.png?crc=3889063847" alt="" data-heightwidthratio="0.176056338028169" data-image-width="284" data-image-height="50" src="images/blank.gif?crc=4208392903"/></a>
+         <a class="nonblock nontext clip_frame grpelem" id="u11418" href="farabi.html"><!-- image --><img class="block temp_no_img_src" id="u11418_img" data-orig-src="images/button-farabi-off.png?crc=224316846" alt="" data-heightwidthratio="0.176056338028169" data-image-width="284" data-image-height="50" src="images/blank.gif?crc=4208392903"/></a>
+         <div class="clip_frame grpelem" id="u11573"><!-- image -->
+          <img class="block temp_no_img_src" id="u11573_img" data-orig-src="images/banner-haleema.png?crc=3825409848" alt="" data-heightwidthratio="0.39511494252873564" data-image-width="696" data-image-height="275" src="images/blank.gif?crc=4208392903"/>
+         </div>
+         <div class="clip_frame grpelem" id="u11585"><!-- image -->
+          <img class="block temp_no_img_src" id="u11585_img" data-orig-src="images/logo-haleema.png?crc=218558804" alt="" data-heightwidthratio="0.34146341463414637" data-image-width="328" data-image-height="112" src="images/blank.gif?crc=4208392903"/>
+         </div>
+        </div>
+        <div class="TabbedPanelsContent invi clearfix grpelem" id="u10316"><!-- group -->
+         <div class="clip_frame grpelem" id="u15513"><!-- image -->
+          <img class="block temp_no_img_src" id="u15513_img" data-orig-src="images/banner-slideshow-5.jpg?crc=4292032992" alt="" data-heightwidthratio="0.6030204962243797" data-image-width="927" data-image-height="559" src="images/blank.gif?crc=4208392903"/>
+         </div>
+        </div>
+        <div class="TabbedPanelsContent invi grpelem" id="u10312"><!-- simple frame --></div>
+        <div class="TabbedPanelsContent invi grpelem" id="u10683"><!-- simple frame --></div>
+       </div>
       </div>
       <div class="grpelem shared_content" id="u815" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-content-guid="u815_content"><!-- simple frame --></div>
       <div class="clip_frame grpelem" id="u805" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- image -->
@@ -152,6 +183,15 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
       <div class="clip_frame grpelem" id="u828" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- image -->
        <img class="block temp_no_img_src" id="u828_img" data-orig-src="images/logo-bot.png?crc=3964561231" alt="" width="81" height="82" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <div class="browser_width grpelem" id="u897-bw">
+       <div class="shadow" id="u897"><!-- group -->
+        <div class="clearfix" id="u897_align_to_page">
+         <div class="clip_frame grpelem" id="u898" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- image -->
+          <img class="block temp_no_img_src" id="u898_img" data-orig-src="images/logo-logo.png?crc=513924879" alt="" width="732" height="35" src="images/blank.gif?crc=4208392903"/>
+         </div>
+        </div>
+       </div>
       </div>
       <form class="form-grp clearfix grpelem" id="widgetu6121" method="post" enctype="multipart/form-data" action="scripts/form-u6121.php" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- none box -->
        <div class="clearfix grpelem" id="u6135-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content -->
@@ -179,17 +219,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        </div>
       </form>
      </div>
-     <div class="browser_width colelem" id="u897-bw">
-      <div class="shadow" id="u897"><!-- group -->
-       <div class="clearfix" id="u897_align_to_page">
-        <div class="clip_frame grpelem" id="u898" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- image -->
-         <img class="block temp_no_img_src" id="u898_img" data-orig-src="images/logo-logo.png?crc=513924879" alt="" width="732" height="35" src="images/blank.gif?crc=4208392903"/>
-        </div>
-       </div>
-      </div>
-     </div>
     </div>
-    <div class="verticalspacer" data-offset-top="3567" data-content-above-spacer="3567" data-content-below-spacer="61" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+    <div class="verticalspacer" data-offset-top="3684" data-content-above-spacer="3684" data-content-below-spacer="61" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
     <div class="clearfix grpelem" id="pu871"><!-- group -->
      <div class="browser_width grpelem shared_content" id="u871-bw" data-content-guid="u871-bw_content">
       <div id="u871"><!-- simple frame --></div>
@@ -207,93 +238,123 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <span class="browser_width grpelem placeholder" data-placeholder-for="u104-bw_content"><!-- placeholder node --></span>
       <span class="clip_frame grpelem placeholder" data-placeholder-for="u94_content"><!-- placeholder node --></span>
      </div>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pslideshowu144"><!-- group -->
-      <div class="SlideShowWidget clearfix grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="slideshowu144"><!-- none box -->
-       <div class="popup_anchor temp_no_id" data-orig-id="u155popup">
-        <div class="SlideShowContentPanel clearfix temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u155"><!-- stack box -->
-         <div class="SSSlide clip_frame clearfix grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u158"><!-- image -->
-          <img class="ImageInclude position_content temp_no_id" data-src="images/banner-slideshow-1385x233.jpg?crc=348307138" src="images/blank.gif?crc=4208392903" alt="" data-width="385" data-height="232" data-orig-id="u158_img"/>
-         </div>
-         <div class="SSSlide invi clip_frame clearfix grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u373"><!-- image -->
-          <img class="ImageInclude position_content temp_no_id" data-src="images/banner-slideshow-2385x233.jpg?crc=4022395401" src="images/blank.gif?crc=4208392903" alt="" data-width="385" data-height="232" data-orig-id="u373_img"/>
-         </div>
-         <div class="SSSlide invi clip_frame clearfix grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u399"><!-- image -->
-          <img class="ImageInclude position_content temp_no_id" data-src="images/banner-slideshow-3385x233.jpg?crc=253157568" src="images/blank.gif?crc=4208392903" alt="" data-width="385" data-height="232" data-orig-id="u399_img"/>
-         </div>
-         <div class="SSSlide invi clip_frame clearfix grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u425"><!-- image -->
-          <img class="ImageInclude position_content temp_no_id" data-src="images/banner-slideshow-4385x233.jpg?crc=63586106" src="images/blank.gif?crc=4208392903" alt="" data-width="385" data-height="232" data-orig-id="u425_img"/>
-         </div>
-         <div class="SSSlide invi clip_frame clearfix grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u7777"><!-- image -->
-          <img class="ImageInclude position_content temp_no_id" data-src="images/banner-slideshow-5385x233.jpg?crc=156615397" src="images/blank.gif?crc=4208392903" alt="" data-width="385" data-height="232" data-orig-id="u7777_img"/>
-         </div>
+     <div class="SlideShowWidget clearfix colelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="slideshowu144"><!-- none box -->
+      <div class="popup_anchor temp_no_id" data-orig-id="u155popup">
+       <div class="SlideShowContentPanel clearfix temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u155"><!-- stack box -->
+        <div class="SSSlide clip_frame clearfix grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u158"><!-- image -->
+         <img class="ImageInclude position_content temp_no_id" data-src="images/banner-slideshow-1385x233.jpg?crc=348307138" src="images/blank.gif?crc=4208392903" alt="" data-width="385" data-height="232" data-orig-id="u158_img"/>
+        </div>
+        <div class="SSSlide invi clip_frame clearfix grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u373"><!-- image -->
+         <img class="ImageInclude position_content temp_no_id" data-src="images/banner-slideshow-2385x233.jpg?crc=3798163100" src="images/blank.gif?crc=4208392903" alt="" data-width="385" data-height="232" data-orig-id="u373_img"/>
+        </div>
+        <div class="SSSlide invi clip_frame clearfix grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u399"><!-- image -->
+         <img class="ImageInclude position_content temp_no_id" data-src="images/banner-slideshow-3385x233.jpg?crc=253157568" src="images/blank.gif?crc=4208392903" alt="" data-width="385" data-height="232" data-orig-id="u399_img"/>
+        </div>
+        <div class="SSSlide invi clip_frame clearfix grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u425"><!-- image -->
+         <img class="ImageInclude position_content temp_no_id" data-src="images/banner-slideshow-4385x233.jpg?crc=3868358187" src="images/blank.gif?crc=4208392903" alt="" data-width="385" data-height="232" data-orig-id="u425_img"/>
+        </div>
+        <div class="SSSlide invi clip_frame clearfix grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u7777"><!-- image -->
+         <img class="ImageInclude position_content temp_no_id" data-src="images/banner-slideshow-5385x233.jpg?crc=3948472595" src="images/blank.gif?crc=4208392903" alt="" data-width="385" data-height="232" data-orig-id="u7777_img"/>
         </div>
        </div>
       </div>
-      <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u632"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/bg-sleepwear-crop-u632.png?crc=3876109025" alt="" width="425" height="435" data-orig-id="u632_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <div class="clearfix colelem temp_no_id" data-orig-id="ptab-panelu10310"><!-- group -->
+      <div class="TabbedPanelsWidget clearfix grpelem temp_no_id" data-visibility="changed" style="visibility:hidden" data-orig-id="tab-panelu10310"><!-- vertical box -->
+       <div class="TabbedPanelsTabGroup borderbox clearfix colelem temp_no_id" data-orig-id="u10324"><!-- horizontal box -->
+        <div class="TabbedPanelsTab clearfix grpelem temp_no_id" data-orig-id="u10333"><!-- horizontal box -->
+         <div class="NoWrap clearfix grpelem temp_no_id" data-orig-id="u10335-4"><!-- content -->
+          <span class="placeholder" data-placeholder-for="u10335-2_content"><!-- placeholder node --></span>
+         </div>
+        </div>
+        <div class="TabbedPanelsTab clearfix grpelem temp_no_id" data-orig-id="u10325"><!-- horizontal box -->
+         <div class="NoWrap clearfix grpelem temp_no_id" data-orig-id="u10327-4"><!-- content -->
+          <span class="placeholder" data-placeholder-for="u10327-2_content"><!-- placeholder node --></span>
+         </div>
+        </div>
+        <div class="TabbedPanelsTab clearfix grpelem temp_no_id" data-orig-id="u10329"><!-- horizontal box -->
+         <div class="NoWrap clearfix grpelem temp_no_id" data-orig-id="u10332-4"><!-- content -->
+          <span class="placeholder" data-placeholder-for="u10332-2_content"><!-- placeholder node --></span>
+         </div>
+        </div>
+        <div class="TabbedPanelsTab clearfix grpelem temp_no_id" data-orig-id="u10662"><!-- horizontal box -->
+         <div class="NoWrap clearfix grpelem temp_no_id" data-orig-id="u10664-4"><!-- content -->
+          <span class="placeholder" data-placeholder-for="u10664-2_content"><!-- placeholder node --></span>
+         </div>
+        </div>
+       </div>
+       <div class="TabbedPanelsContentGroup clearfix colelem temp_no_id" data-orig-id="u10311"><!-- stack box -->
+        <div class="TabbedPanelsContent clearfix grpelem temp_no_id" data-orig-id="u10320"><!-- group -->
+         <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u11559"><!-- image -->
+          <img class="block temp_no_id temp_no_img_src" data-orig-src="images/bg-haleema-crop-u115592.png?crc=3940318154" alt="" width="425" height="399" data-orig-id="u11559_img" src="images/blank.gif?crc=4208392903"/>
+         </div>
+         <div class="clip_frame clearfix grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u10895"><!-- image -->
+          <img class="position_content temp_no_id temp_no_img_src" data-orig-src="images/bg-kitchen-crop-u108952.png?crc=3913073484" alt="" width="426" height="390" data-orig-id="u10895_img" src="images/blank.gif?crc=4208392903"/>
+         </div>
+         <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u11350"><!-- image -->
+          <img class="block temp_no_id temp_no_img_src" data-orig-src="images/bg-farabi-crop-u113502.png?crc=108965832" alt="" width="425" height="369" data-orig-id="u11350_img" src="images/blank.gif?crc=4208392903"/>
+         </div>
+         <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u10831"><!-- image -->
+          <img class="block temp_no_id temp_no_img_src" data-orig-src="images/bg-finela-crop-u108312.png?crc=4130509547" alt="" width="425" height="390" data-orig-id="u10831_img" src="images/blank.gif?crc=4208392903"/>
+         </div>
+         <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u10698"><!-- image -->
+          <img class="block temp_no_id temp_no_img_src" data-orig-src="images/bg-farha-crop-u106982.png?crc=75152565" alt="" width="425" height="367" data-orig-id="u10698_img" src="images/blank.gif?crc=4208392903"/>
+         </div>
+         <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u10602"><!-- image -->
+          <img class="block temp_no_id temp_no_img_src" data-orig-src="images/banner-farha190x278.png?crc=4000015148" alt="" width="189" height="278" data-orig-id="u10602_img" src="images/blank.gif?crc=4208392903"/>
+         </div>
+         <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u10709"><!-- image -->
+          <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo-farha.png?crc=4158924916" alt="" width="201" height="128" data-orig-id="u10709_img" src="images/blank.gif?crc=4208392903"/>
+         </div>
+         <span class="clearfix grpelem placeholder" data-placeholder-for="u10721-4_content"><!-- placeholder node --></span>
+         <img class="grpelem temp_no_id temp_no_img_src" alt="" width="180" height="36" data-orig-src="images/button-farha-on-u107272.png?crc=4096400135" data-orig-id="u10727" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+         <a class="nonblock nontext clip_frame grpelem temp_no_id" href="farha.html" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u10729"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/button-farha-off.png?crc=4027428289" alt="" width="174" height="30" data-orig-id="u10729_img" src="images/blank.gif?crc=4208392903"/></a>
+         <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u10843"><!-- image -->
+          <img class="block temp_no_id temp_no_img_src" data-orig-src="images/banner-finela193x245.png?crc=516081752" alt="" width="193" height="244" data-orig-id="u10843_img" src="images/blank.gif?crc=4208392903"/>
+         </div>
+         <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u11382"><!-- image -->
+          <img class="block temp_no_id temp_no_img_src" data-orig-src="images/banner-farabi193x226.png?crc=4056042979" alt="" width="193" height="225" data-orig-id="u11382_img" src="images/blank.gif?crc=4208392903"/>
+         </div>
+         <div class="clip_frame grpelem temp_no_id" data-orig-id="u10855"><!-- image -->
+          <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo-liyana.png?crc=110717654" alt="" data-heightwidthratio="0.7071823204419889" data-image-width="181" data-image-height="128" data-orig-id="u10855_img" src="images/blank.gif?crc=4208392903"/>
+         </div>
+         <span class="clearfix grpelem placeholder" data-placeholder-for="u11532-4_content"><!-- placeholder node --></span>
+         <div class="clip_frame grpelem temp_no_id" data-orig-id="u11397"><!-- image -->
+          <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo%20farabi.png?crc=4017990151" alt="" data-heightwidthratio="0.5872093023255814" data-image-width="172" data-image-height="101" data-orig-id="u11397_img" src="images/blank.gif?crc=4208392903"/>
+         </div>
+         <span class="clearfix grpelem placeholder" data-placeholder-for="u10867-6_content"><!-- placeholder node --></span>
+         <span class="clearfix grpelem placeholder" data-placeholder-for="u11412-6_content"><!-- placeholder node --></span>
+         <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u10907"><!-- image -->
+          <img class="block temp_no_id temp_no_img_src" data-orig-src="images/banner-kitchen194x237.png?crc=4003224541" alt="" width="193" height="237" data-orig-id="u10907_img" src="images/blank.gif?crc=4208392903"/>
+         </div>
+         <span class="clearfix grpelem placeholder" data-placeholder-for="u10909-6_content"><!-- placeholder node --></span>
+         <img class="grpelem temp_no_id temp_no_img_src" alt="" width="175" height="35" data-orig-src="images/button-kitchen-on-u109102.png?crc=4026976542" data-orig-id="u10910" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+         <a class="nonblock nontext clip_frame grpelem temp_no_id" href="homewear.html" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u10912"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/button-kitchen-off.png?crc=126712987" alt="" width="167" height="29" data-orig-id="u10912_img" src="images/blank.gif?crc=4208392903"/></a>
+         <img class="grpelem temp_no_id temp_no_img_src" alt="" width="175" height="35" data-orig-src="images/button-haleema-on-u115212.png?crc=4284978451" data-orig-id="u11521" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+         <div class="clip_frame grpelem temp_no_id" data-orig-id="u10914"><!-- image -->
+          <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo-kitchen.png?crc=3901706674" alt="" data-heightwidthratio="0.6417112299465241" data-image-width="187" data-image-height="120" data-orig-id="u10914_img" src="images/blank.gif?crc=4208392903"/>
+         </div>
+         <img class="grpelem temp_no_id temp_no_img_src" alt="" width="175" height="35" data-orig-src="images/button-finela-on-u108682.png?crc=419459716" data-orig-id="u10868" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+         <a class="nonblock nontext clip_frame grpelem temp_no_id" href="haleema.html" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u11509"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/button-haleema-off.png?crc=3966756917" alt="" width="167" height="29" data-orig-id="u11509_img" src="images/blank.gif?crc=4208392903"/></a>
+         <img class="grpelem temp_no_id temp_no_img_src" alt="" width="175" height="35" data-orig-src="images/button-farabi-on-u114302.png?crc=4077777917" data-orig-id="u11430" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+         <a class="nonblock nontext clip_frame grpelem temp_no_id" href="liyana.html" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u10870"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/button-finela-off.png?crc=3889063847" alt="" width="167" height="29" data-orig-id="u10870_img" src="images/blank.gif?crc=4208392903"/></a>
+         <a class="nonblock nontext clip_frame grpelem temp_no_id" href="farabi.html" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u11418"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/button-farabi-off.png?crc=224316846" alt="" width="167" height="29" data-orig-id="u11418_img" src="images/blank.gif?crc=4208392903"/></a>
+         <div class="clip_frame grpelem temp_no_id" data-orig-id="u11573"><!-- image -->
+          <img class="block temp_no_id temp_no_img_src" data-orig-src="images/banner-haleema386x153.png?crc=4218321430" alt="" data-heightwidthratio="0.39378238341968913" data-image-width="386" data-image-height="152" data-orig-id="u11573_img" src="images/blank.gif?crc=4208392903"/>
+         </div>
+         <div class="clip_frame grpelem temp_no_id" data-orig-id="u11585"><!-- image -->
+          <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo-haleema.png?crc=218558804" alt="" data-heightwidthratio="0.3416149068322981" data-image-width="161" data-image-height="55" data-orig-id="u11585_img" src="images/blank.gif?crc=4208392903"/>
+         </div>
+        </div>
+        <div class="TabbedPanelsContent invi clearfix grpelem temp_no_id" data-orig-id="u10316"><!-- group -->
+         <div class="clip_frame grpelem temp_no_id" data-orig-id="u15513"><!-- image -->
+          <img class="block temp_no_id temp_no_img_src" data-orig-src="images/banner-slideshow-5385x233.jpg?crc=3948472595" alt="" data-heightwidthratio="0.6025974025974026" data-image-width="385" data-image-height="232" data-orig-id="u15513_img" src="images/blank.gif?crc=4208392903"/>
+         </div>
+        </div>
+        <div class="TabbedPanelsContent invi grpelem temp_no_id" data-orig-id="u10312"><!-- simple frame --></div>
+        <div class="TabbedPanelsContent invi grpelem temp_no_id" data-orig-id="u10683"><!-- simple frame --></div>
+       </div>
       </div>
-      <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u776"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/banner-sleepwear384x152.png?crc=407364550" alt="" width="384" height="151" data-orig-id="u776_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <span class="clearfix grpelem placeholder" data-placeholder-for="u930-4_content"><!-- placeholder node --></span>
-      <img class="grpelem temp_no_id temp_no_img_src" alt="" width="178" height="36" data-orig-src="images/button-sleepwear-on-u9332.png?crc=3853880390" data-orig-id="u933" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
-      <a class="nonblock nontext anim_swing clip_frame grpelem temp_no_id" href="index.html#coming-soon" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u935"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/button-sleepwear-off.png?crc=294378461" alt="" width="173" height="30" data-orig-id="u935_img" src="images/blank.gif?crc=4208392903"/></a>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u7202"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo-sleepwear.png?crc=3862412568" alt="" data-heightwidthratio="0.5681818181818182" data-image-width="132" data-image-height="75" data-orig-id="u7202_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u603"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/bg-couple-crop-u603.png?crc=3822803027" alt="" width="425" height="414" data-orig-id="u603_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u699"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/banner-couple384x151.png?crc=3780546074" alt="" width="384" height="151" data-orig-id="u699_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <span class="clearfix grpelem placeholder" data-placeholder-for="u732-4_content"><!-- placeholder node --></span>
-      <img class="grpelem temp_no_id temp_no_img_src" alt="" width="175" height="35" data-orig-src="images/button-couple-on-u7592.png?crc=54769246" data-orig-id="u759" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
-      <a class="nonblock nontext anim_swing clip_frame grpelem temp_no_id" href="index.html#coming-soon" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u735"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/button-couple-off.png?crc=3972848491" alt="" width="170" height="30" data-orig-id="u735_img" src="images/blank.gif?crc=4208392903"/></a>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u7190"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo-couple.png?crc=4146125027" alt="" data-heightwidthratio="0.3068181818181818" data-image-width="176" data-image-height="54" data-orig-id="u7190_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame clearfix grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u508"><!-- image -->
-       <img class="position_content temp_no_id temp_no_img_src" data-orig-src="images/bg-kitchen-crop-u508.png?crc=3846162645" alt="" width="426" height="390" data-orig-id="u508_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u656"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/banner-kitchen194x237.png?crc=4003224541" alt="" width="193" height="237" data-orig-id="u656_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <span class="clearfix grpelem placeholder" data-placeholder-for="u676-6_content"><!-- placeholder node --></span>
-      <img class="grpelem temp_no_id temp_no_img_src" alt="" width="175" height="35" data-orig-src="images/button-kitchen-on-u6872.png?crc=211297936" data-orig-id="u687" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
-      <a class="nonblock nontext anim_swing clip_frame grpelem temp_no_id" href="index.html#coming-soon" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u679"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/button-kitchen-off.png?crc=172147910" alt="" width="167" height="29" data-orig-id="u679_img" src="images/blank.gif?crc=4208392903"/></a>
-      <span class="anchor_item grpelem placeholder" data-placeholder-for="coming-soon_content"><!-- placeholder node --></span>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u7178"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo-kitchen.png?crc=3901706674" alt="" data-heightwidthratio="0.6390532544378699" data-image-width="169" data-image-height="108" data-orig-id="u7178_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u7832"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/bg-finela-crop-u7832.png?crc=4130509547" alt="" width="425" height="390" data-orig-id="u7832_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u7838"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/banner-finela193x245.png?crc=516081752" alt="" width="193" height="244" data-orig-id="u7838_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <span class="clearfix grpelem placeholder" data-placeholder-for="u7835-6_content"><!-- placeholder node --></span>
-      <img class="grpelem temp_no_id temp_no_img_src" alt="" width="175" height="35" data-orig-src="images/button-finela-on-u78302.png?crc=419459716" data-orig-id="u7830" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
-      <a class="nonblock nontext clip_frame grpelem temp_no_id" href="liyana.html" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u7840"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/button-finela-off.png?crc=3889063847" alt="" width="167" height="29" data-orig-id="u7840_img" src="images/blank.gif?crc=4208392903"/></a>
-      <span class="anchor_item grpelem placeholder" data-placeholder-for="coming-soon2_content"><!-- placeholder node --></span>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u7836"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo-liyana.png?crc=452592959" alt="" data-heightwidthratio="0.6136363636363636" data-image-width="176" data-image-height="108" data-orig-id="u7836_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u521"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/bg-farha-crop-u521.png?crc=6075933" alt="" width="425" height="397" data-orig-id="u521_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame clearfix grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u318"><!-- image -->
-       <img class="position_content temp_no_id temp_no_img_src" data-orig-src="images/divider%201533x120.png?crc=3886396338" alt="" width="532" height="119" data-orig-id="u318_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u541"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo-farha.png?crc=4158924916" alt="" width="195" height="125" data-orig-id="u541_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u551"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/banner-farha190x278.png?crc=4000015148" alt="" width="189" height="278" data-orig-id="u551_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <img class="grpelem temp_no_id temp_no_img_src" alt="" width="180" height="36" data-orig-src="images/button-farha-on-u5692.png?crc=4096400135" data-orig-id="u569" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
-      <a class="nonblock nontext clip_frame grpelem temp_no_id" href="farha.html" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u561"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/button-farha-off.png?crc=4027428289" alt="" width="174" height="30" data-orig-id="u561_img" src="images/blank.gif?crc=4208392903"/></a>
-      <span class="clearfix grpelem placeholder" data-placeholder-for="u642-4_content"><!-- placeholder node --></span>
       <div class="browser_width grpelem" id="u815-bw">
        <span class="placeholder" data-placeholder-for="u815_content"><!-- placeholder node --></span>
       </div>
@@ -305,6 +366,15 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
       <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u828"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo-bot.png?crc=3964561231" alt="" width="34" height="35" data-orig-id="u828_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <div class="browser_width grpelem temp_no_id" data-orig-id="u897-bw">
+       <div class="shadow temp_no_id" data-orig-id="u897"><!-- group -->
+        <div class="clearfix temp_no_id" data-orig-id="u897_align_to_page">
+         <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u898"><!-- image -->
+          <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo-logo.png?crc=513924879" alt="" width="385" height="19" data-orig-id="u898_img" src="images/blank.gif?crc=4208392903"/>
+         </div>
+        </div>
+       </div>
       </div>
       <form class="form-grp clearfix grpelem temp_no_id" method="post" enctype="multipart/form-data" action="scripts/form-u6121.php" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-orig-id="widgetu6121"><!-- none box -->
        <div class="clearfix grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u6135-4"><!-- content -->
@@ -330,17 +400,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        </div>
       </form>
      </div>
-     <div class="browser_width colelem temp_no_id" data-orig-id="u897-bw">
-      <div class="shadow temp_no_id" data-orig-id="u897"><!-- group -->
-       <div class="clearfix temp_no_id" data-orig-id="u897_align_to_page">
-        <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u898"><!-- image -->
-         <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo-logo.png?crc=513924879" alt="" width="385" height="19" data-orig-id="u898_img" src="images/blank.gif?crc=4208392903"/>
-        </div>
-       </div>
-      </div>
-     </div>
     </div>
-    <div class="verticalspacer" data-offset-top="2426" data-content-above-spacer="2425" data-content-below-spacer="61" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+    <div class="verticalspacer" data-offset-top="2282" data-content-above-spacer="2281" data-content-below-spacer="61" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
     <div class="clearfix grpelem temp_no_id" data-orig-id="pu871"><!-- group -->
      <span class="browser_width grpelem placeholder" data-placeholder-for="u871-bw_content"><!-- placeholder node --></span>
      <div class="clip_frame grpelem temp_no_id" data-orig-id="u874"><!-- image -->
@@ -360,7 +421,7 @@ var suppressMissingFileError = false
 k[1]:null,k=k&&k[2]?k[2]:null;switch(k.toLowerCase()){case "css":i=i.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");g.className+=" "+i;i=a(d(g,"color"));k=a(d(g,"backgroundColor"));i!=0||k!=0?(Muse.assets.required.splice(j,1),"undefined"!=typeof b[l]&&(i!=b[l]>>>24||k!=(b[l]&16777215))&&Muse.assets.outOfDate.push(l)):j++;g.className="version";break;case "js":j++;break;default:throw Error("Unsupported file type: "+k);}}c?c().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 g.parentNode.removeChild(g);if(Muse.assets.outOfDate.length||Muse.assets.required.length)g="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",f&&Muse.assets.outOfDate.length&&(g+="\nOut of date: "+Muse.assets.outOfDate.join(",")),f&&Muse.assets.required.length&&(g+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(g+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(g)):alert(g)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){f(!0)},5E3):f()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","webpro","musewpslideshow","jquery.museoverlay","touchswipe","jquery.museresponsive"],function(c){var $ = c;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","webpro","musewpslideshow","jquery.museoverlay","touchswipe","musewpdisclosure","jquery.museresponsive"],function(c){var $ = c;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
@@ -368,6 +429,7 @@ Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('#slideshowu144', ['#bp_infinity', '#bp_425'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu144 */
+Muse.Utils.initWidget('#tab-panelu10310', ['#bp_infinity', '#bp_425'], function(elem) { return new WebPro.Widget.TabbedPanels(elem, {event:'click',defaultIndex:0}); });/* #tab-panelu10310 */
 Muse.Utils.initWidget('#widgetu6121', ['#bp_infinity', '#bp_425'], function(elem) { return new WebPro.Widget.Form(elem, {validationEvent:'submit',errorStateSensitivity:'high',fieldWrapperClass:'fld-grp',formSubmittedClass:'frm-sub-st',formErrorClass:'frm-subm-err-st',formDeliveredClass:'frm-subm-ok-st',notEmptyClass:'non-empty-st',focusClass:'focus-st',invalidClass:'fld-err-st',requiredClass:'fld-err-st',ajaxSubmit:true}); });/* #widgetu6121 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */

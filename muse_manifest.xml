@@ -1,127 +1,76 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="homewear.rmall.id" resolutions="1x" timestamp="1595393711131">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="homewear.rmall.id" resolutions="1x" timestamp="1595832770880">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="411111690" ref="farha:index:liyana"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="farha:index:liyana"/>
-    <file name="farha.css" crc="190149116" ref="farha"/>
-    <file name="nomq_farha.css" crc="317708308" ref="farha"/>
-    <file name="index.css" crc="4248459994" ref="index"/>
-    <file name="nomq_index.css" crc="3961569901" ref="index"/>
-    <file name="liyana.css" crc="3808407651" ref="liyana"/>
-    <file name="nomq_liyana.css" crc="462864532" ref="liyana"/>
+    <file name="master_a-master.css" crc="411111690" ref="index:liyana:farha:farabi:homewear:haleema"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:liyana:farha:farabi:homewear:haleema"/>
+    <file name="index.css" crc="46169332" ref="index"/>
+    <file name="nomq_index.css" crc="3764578970" ref="index"/>
+    <file name="liyana.css" crc="3883034389" ref="liyana"/>
+    <file name="nomq_liyana.css" crc="402326565" ref="liyana"/>
+    <file name="farha.css" crc="221888728" ref="farha"/>
+    <file name="nomq_farha.css" crc="259044149" ref="farha"/>
+    <file name="farabi.css" crc="4161808580" ref="farabi"/>
+    <file name="nomq_farabi.css" crc="4011301525" ref="farabi"/>
+    <file name="homewear.css" crc="4098104598" ref="homewear"/>
+    <file name="nomq_homewear.css" crc="4024217065" ref="homewear"/>
+    <file name="haleema.css" crc="338032101" ref="haleema"/>
+    <file name="nomq_haleema.css" crc="368085297" ref="haleema"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:farha:liyana"/>
-    <file name="museutils.js" crc="340535759" ref="index:farha:liyana"/>
-    <file name="whatinput.js" crc="86476730" ref="index:farha:liyana"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:farha:liyana"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:farha:liyana"/>
-    <file name="webpro.js" crc="4059564322" ref="index:farha:liyana"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:farha:liyana:farabi:haleema:homewear"/>
+    <file name="museutils.js" crc="340535759" ref="index:farha:liyana:farabi:haleema:homewear"/>
+    <file name="whatinput.js" crc="86476730" ref="index:farha:liyana:farabi:haleema:homewear"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:farha:liyana:farabi:haleema:homewear"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:farha:liyana:farabi:haleema:homewear"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
-    <file name="form_check.php" crc="4020933626" ref="index:farha"/>
-    <file name="form_throttle.php" crc="4259590256" ref="index:farha"/>
-    <file name="form_process.php" crc="37464564" ref="index:farha"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
     <file name="form-u6121.php" crc="409271390" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index:farha:liyana"/>
-    <file name="require.js" crc="7928878" ref="index:farha:liyana"/>
-    <file name="form-u6979.php" crc="112211348" ref="farha"/>
-    <file name="form-u8202.php" crc="378904053" ref="liyana"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:farha:liyana:farabi:haleema:homewear"/>
+    <file name="require.js" crc="7928878" ref="index:farha:liyana:farabi:haleema:homewear"/>
   </folder>
   <folder name="images">
-    <file name="logo-home.png" crc="3964396933" seo="true" ref="index:farha:liyana">
+    <file name="logo-home.png" crc="3964396933" seo="true" ref="index:farha:liyana:farabi:haleema:homewear">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="farha" alt=""/>
       <caption webpage="farha" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="liyana" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
     </file>
     <file name="banner-slideshow-1.jpg" crc="3951465422" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:farha:liyana"/>
-    <file name="banner-slideshow-2.jpg" crc="3993586510" seo="true" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="index:farha:liyana:farabi:haleema:homewear"/>
+    <file name="banner-slideshow-2.jpg" crc="169404166" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="banner-slideshow-3.jpg" crc="4262470872" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="banner-slideshow-4.jpg" crc="4197532995" seo="true" ref="index">
+    <file name="banner-slideshow-4.jpg" crc="4007586550" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="banner-slideshow-5.jpg" crc="182781247" seo="true" ref="index">
+    <file name="banner-slideshow-5.jpg" crc="4292032992" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="bg-sleepwear.png" crc="4133495962" seo="true" ref="index">
+    <file name="bg-farha-crop-u10698.png" crc="268693989" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="banner-sleepwear.png" crc="3896461176" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="button-sleepwear-on-u933.png" crc="3760672197" ref="index"/>
-    <file name="button-sleepwear-off.png" crc="294378461" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo-sleepwear.png" crc="3862412568" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bg-couple.png" crc="469184619" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="button-couple-on-u759.png" crc="3888331223" ref="index"/>
-    <file name="button-couple-off.png" crc="3972848491" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo-couple.png" crc="4146125027" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bg-kitchen.png" crc="417439752" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="banner-kitchen.png" crc="3846488915" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="button-kitchen-on-u687.png" crc="3847724491" ref="index"/>
-    <file name="button-kitchen-off.png" crc="172147910" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo-kitchen.png" crc="3901706674" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bg-finela.png" crc="129603552" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="banner-finela.png" crc="4108727940" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="button-finela-on-u7830.png" crc="4161572305" ref="index"/>
-    <file name="button-finela-off.png" crc="3889063847" seo="true" ref="index:liyana">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="liyana" alt=""/>
-      <caption webpage="liyana" alt=""/>
-      <caption webpage="liyana" alt=""/>
-      <caption webpage="liyana" alt=""/>
-    </file>
-    <file name="bg-farha.png" crc="114715986" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="divider 1.png" crc="376927317" seo="true" ref="index">
+    <file name="banner-farha.png" crc="165939470" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="logo-farha.png" crc="4158924916" seo="true" ref="index:farha">
@@ -129,13 +78,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="farha" alt=""/>
       <caption webpage="farha" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
     </file>
-    <file name="banner-farha.png" crc="165939470" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="button-farha-on-u569.png" crc="3994846428" ref="index"/>
+    <file name="button-farha-on-u10727.png" crc="468462395" ref="index"/>
     <file name="button-farha-off.png" crc="4027428289" seo="true" ref="index:farha">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -143,86 +87,203 @@
       <caption webpage="farha" alt=""/>
       <caption webpage="farha" alt=""/>
       <caption webpage="farha" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
     </file>
-    <file name="banner-bottom.png" crc="289668216" seo="true" ref="index:farha:liyana">
+    <file name="banner-finela.png" crc="4108727940" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="farha" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="liyana" alt=""/>
     </file>
-    <file name="subs-headline.png" crc="495776627" seo="true" ref="index:farha:liyana">
+    <file name="banner-farabi.png" crc="370447510" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="farha" alt=""/>
-      <caption webpage="farha" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="liyana" alt=""/>
-      <caption webpage="liyana" alt=""/>
     </file>
-    <file name="logo-bot.png" crc="3964561231" seo="true" ref="index:farha:liyana">
+    <file name="logo-liyana.png" crc="110717654" seo="true" ref="index:liyana">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="farha" alt=""/>
-      <caption webpage="farha" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="liyana" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
     </file>
-    <file name="logo-logo.png" crc="513924879" seo="true" ref="index:farha:liyana">
+    <file name="logo farabi.png" crc="4017990151" seo="true" ref="index:farabi">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="farha" alt=""/>
-      <caption webpage="farha" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="liyana" alt=""/>
-      <caption webpage="liyana" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
     </file>
-    <file name="copyright.png" crc="100796091" seo="true" ref="index:farha:liyana">
+    <file name="banner-kitchen.png" crc="3846488915" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-kitchen-on-u10910.png" crc="333575024" ref="index"/>
+    <file name="button-kitchen-off.png" crc="126712987" seo="true" ref="index:homewear">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
+    </file>
+    <file name="button-haleema-on-u11521.png" crc="284519430" ref="index"/>
+    <file name="logo-kitchen.png" crc="3901706674" seo="true" ref="index:homewear">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
+    </file>
+    <file name="button-finela-on-u10868.png" crc="336988188" ref="index"/>
+    <file name="button-haleema-off.png" crc="3966756917" seo="true" ref="index:haleema">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+    </file>
+    <file name="button-farabi-on-u11430.png" crc="81899686" ref="index"/>
+    <file name="button-finela-off.png" crc="3889063847" seo="true" ref="index:liyana">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+    </file>
+    <file name="button-farabi-off.png" crc="224316846" seo="true" ref="index:farabi">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
+    </file>
+    <file name="banner-haleema.png" crc="3825409848" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-haleema.png" crc="218558804" seo="true" ref="index:haleema">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+    </file>
+    <file name="banner-bottom.png" crc="289668216" seo="true" ref="index:farha:liyana:farabi:haleema:homewear">
+      <caption webpage="index" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="homewear" alt=""/>
+    </file>
+    <file name="subs-headline.png" crc="495776627" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="farha" alt=""/>
       <caption webpage="farha" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="liyana" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
+    </file>
+    <file name="logo-bot.png" crc="3964561231" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
+    </file>
+    <file name="logo-logo.png" crc="513924879" seo="true" ref="index:farha:liyana:farabi:haleema:homewear">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
+    </file>
+    <file name="copyright.png" crc="100796091" seo="true" ref="index:farha:liyana:farabi:haleema:homewear">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
     </file>
     <file name="banner-slideshow-1385x233.jpg" crc="348307138" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="banner-slideshow-2385x233.jpg" crc="4022395401" seo="true" ref="index">
+    <file name="banner-slideshow-2385x233.jpg" crc="3798163100" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="banner-slideshow-3385x233.jpg" crc="253157568" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="banner-slideshow-4385x233.jpg" crc="63586106" seo="true" ref="index">
+    <file name="banner-slideshow-4385x233.jpg" crc="3868358187" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="banner-slideshow-5385x233.jpg" crc="156615397" seo="true" ref="index">
+    <file name="banner-slideshow-5385x233.jpg" crc="3948472595" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="button-sleepwear-on-u9332.png" crc="3853880390" ref="index"/>
-    <file name="button-couple-on-u7592.png" crc="54769246" ref="index"/>
-    <file name="button-kitchen-on-u6872.png" crc="211297936" ref="index"/>
-    <file name="banner-finela193x245.png" crc="516081752" seo="true" ref="index">
+    <file name="bg-haleema-crop-u11559.png" crc="4080472143" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="button-finela-on-u78302.png" crc="419459716" ref="index"/>
+    <file name="bg-kitchen-crop-u10895.png" crc="3953424044" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg-farabi-crop-u11350.png" crc="201688027" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg-finela-crop-u10831.png" crc="4245405025" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg-farha-crop-u106982.png" crc="75152565" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="banner-farha190x278.png" crc="4000015148" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="button-farha-on-u5692.png" crc="4096400135" ref="index"/>
+    <file name="button-farha-on-u107272.png" crc="4096400135" ref="index"/>
+    <file name="banner-finela193x245.png" crc="516081752" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner-farabi193x226.png" crc="4056042979" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner-kitchen194x237.png" crc="4003224541" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-kitchen-on-u109102.png" crc="4026976542" ref="index"/>
+    <file name="button-haleema-on-u115212.png" crc="4284978451" ref="index"/>
+    <file name="button-finela-on-u108682.png" crc="419459716" ref="index"/>
+    <file name="button-farabi-on-u114302.png" crc="4077777917" ref="index"/>
     <file name="banner-bottom164x101.png" crc="465390598" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="finela" alt=""/>
     </file>
     <file name="bg-farha-crop-u2943.png" crc="3788242072" seo="true" ref="farha">
       <caption webpage="farha" alt=""/>
@@ -235,70 +296,42 @@
       <caption webpage="farha" alt=""/>
       <caption webpage="farha" alt=""/>
       <caption webpage="farha" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
     </file>
     <file name="homewear 1.jpg" crc="98734802" seo="true" ref="farha">
       <caption webpage="farha" alt=""/>
-      <caption webpage="finela" alt=""/>
     </file>
     <file name="homewear 2.jpg" crc="427339559" seo="true" ref="farha">
       <caption webpage="farha" alt=""/>
-      <caption webpage="finela" alt=""/>
-    </file>
-    <file name="st piyama farha dad.png" crc="170755317" seo="true" ref="farha">
-      <caption webpage="farha" alt=""/>
-      <caption webpage="farha" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
-    </file>
-    <file name="piyama farha mom.png" crc="3758172654" seo="true" ref="farha">
-      <caption webpage="farha" alt=""/>
-      <caption webpage="farha" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
     </file>
     <file name="homewear 3.jpg" crc="391029807" seo="true" ref="farha">
       <caption webpage="farha" alt=""/>
-      <caption webpage="finela" alt=""/>
     </file>
     <file name="homewear 4.jpg" crc="23963185" seo="true" ref="farha">
       <caption webpage="farha" alt=""/>
-      <caption webpage="finela" alt=""/>
-    </file>
-    <file name="st piyama farha boy.png" crc="517892725" seo="true" ref="farha">
-      <caption webpage="farha" alt=""/>
-      <caption webpage="farha" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
-    </file>
-    <file name="piyama farha girl.png" crc="4135992624" seo="true" ref="farha">
-      <caption webpage="farha" alt=""/>
-      <caption webpage="farha" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
     </file>
     <file name="bahan.png" crc="4149097126" seo="true" ref="farha">
       <caption webpage="farha" alt=""/>
       <caption webpage="farha" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
     </file>
     <file name="warna2.png" crc="321416143" seo="true" ref="farha">
       <caption webpage="farha" alt=""/>
       <caption webpage="farha" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
     </file>
-    <file name="ukuran.png" crc="4144159746" seo="true" ref="farha:liyana">
-      <caption webpage="farha" alt=""/>
-      <caption webpage="farha" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
+    <file name="ukuran.png" crc="4144159746" seo="true" ref="farha:liyana:farabi">
       <caption webpage="liyana" alt=""/>
       <caption webpage="liyana" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
     </file>
     <file name="bg-farha-crop-u29432.png" crc="48945660" seo="true" ref="farha">
       <caption webpage="farha" alt=""/>
@@ -319,116 +352,325 @@
       <caption webpage="farha" alt=""/>
     </file>
     <file name="bg-finela-crop-u8256.png" crc="3939952611" seo="true" ref="liyana">
-      <caption webpage="finela" alt=""/>
       <caption webpage="liyana" alt=""/>
     </file>
-    <file name="bg-finela-1-crop-u8236.png" crc="3839579974" seo="true" ref="liyana">
-      <caption webpage="finela" alt=""/>
-      <caption webpage="liyana" alt=""/>
-    </file>
-    <file name="bg-finela-crop-u82562.png" crc="4042899853" seo="true" ref="liyana">
-      <caption webpage="finela" alt=""/>
+    <file name="bg-finela-1-crop-u8236.png" crc="3971257964" seo="true" ref="liyana">
       <caption webpage="liyana" alt=""/>
     </file>
     <file name="button-finela-on.png" crc="47745934" seo="true" ref="liyana">
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="liyana" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
     </file>
     <file name="finela 1.jpg" crc="387820035" seo="true" ref="liyana">
-      <caption webpage="finela" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="haleema" alt=""/>
       <caption webpage="liyana" alt=""/>
     </file>
     <file name="finela 2.jpg" crc="157454233" seo="true" ref="liyana">
-      <caption webpage="finela" alt=""/>
-      <caption webpage="liyana" alt=""/>
-    </file>
-    <file name="finela 1161x161.jpg" crc="55225648" seo="true" ref="liyana">
-      <caption webpage="finela" alt=""/>
-      <caption webpage="liyana" alt=""/>
-    </file>
-    <file name="finela 2161x161.jpg" crc="4197334759" seo="true" ref="liyana">
-      <caption webpage="finela" alt=""/>
-      <caption webpage="liyana" alt=""/>
-    </file>
-    <file name="banner-bottom174x107.png" crc="477911626" seo="true" ref="farha:liyana">
-      <caption webpage="farha" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="liyana" alt=""/>
-    </file>
-    <file name="bg-finela-1-crop-u82362.png" crc="30626337" seo="true" ref="liyana">
-      <caption webpage="finela" alt=""/>
-      <caption webpage="liyana" alt=""/>
-    </file>
-    <file name="bg-sleepwear-crop-u632.png" crc="3876109025" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bg-couple-crop-u603.png" crc="3822803027" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bg-kitchen-crop-u508.png" crc="3846162645" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bg-finela-crop-u7832.png" crc="4130509547" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bg-farha-crop-u521.png" crc="6075933" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="divider 1533x120.png" crc="3886396338" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo-liyana.png" crc="452592959" seo="true" ref="index:liyana">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="liyana" alt=""/>
-      <caption webpage="liyana" alt=""/>
-    </file>
-    <file name="liyana mom.png" crc="136365540" seo="true" ref="liyana">
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="liyana" alt=""/>
-      <caption webpage="liyana" alt=""/>
-    </file>
-    <file name="liyana girl.png" crc="33227935" seo="true" ref="liyana">
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
-      <caption webpage="liyana" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="haleema" alt=""/>
       <caption webpage="liyana" alt=""/>
     </file>
     <file name="bahan-liyana.png" crc="4070727990" seo="true" ref="liyana">
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="liyana" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
     </file>
     <file name="warna-liyana.png" crc="432149056" seo="true" ref="liyana">
-      <caption webpage="finela" alt=""/>
-      <caption webpage="finela" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+    </file>
+    <file name="bg-finela-crop-u82562.png" crc="4042899853" seo="true" ref="liyana">
+      <caption webpage="liyana" alt=""/>
+    </file>
+    <file name="bg-finela-1-crop-u82362.png" crc="3861009233" seo="true" ref="liyana">
+      <caption webpage="liyana" alt=""/>
+    </file>
+    <file name="finela 1161x161.jpg" crc="55225648" seo="true" ref="liyana">
+      <caption webpage="liyana" alt=""/>
+    </file>
+    <file name="finela 2161x161.jpg" crc="4197334759" seo="true" ref="liyana">
+      <caption webpage="liyana" alt=""/>
+    </file>
+    <file name="bg-kitchen-crop-u9838.png" crc="208340134" seo="true" ref="homewear">
+      <caption webpage="homewear" alt=""/>
+    </file>
+    <file name="apron shawa.jpg" crc="161948028" seo="true" ref="homewear">
+      <caption webpage="homewear" alt=""/>
+    </file>
+    <file name="bani apron shawa.jpg" crc="404493567" seo="true" ref="homewear">
+      <caption webpage="homewear" alt=""/>
+    </file>
+    <file name="button-kitchen-on-u11728.png" crc="111500749" ref="homewear"/>
+    <file name="heat gloves mika.jpg" crc="398434311" seo="true" ref="homewear">
+      <caption webpage="homewear" alt=""/>
+    </file>
+    <file name="tempat tissue bunny.jpg" crc="393520011" seo="true" ref="homewear">
+      <caption webpage="homewear" alt=""/>
+    </file>
+    <file name="button-kitchen-on.png" crc="4253734786" seo="true" ref="homewear">
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
+    </file>
+    <file name="bg-kitchen-crop-u98382.png" crc="4178385408" seo="true" ref="homewear">
+      <caption webpage="homewear" alt=""/>
+    </file>
+    <file name="apron shawa161x161.jpg" crc="4020189215" seo="true" ref="homewear">
+      <caption webpage="homewear" alt=""/>
+    </file>
+    <file name="bani apron shawa161x161.jpg" crc="4191902613" seo="true" ref="homewear">
+      <caption webpage="homewear" alt=""/>
+    </file>
+    <file name="heat gloves mika161x161.jpg" crc="4134357952" seo="true" ref="homewear">
+      <caption webpage="homewear" alt=""/>
+    </file>
+    <file name="tempat tissue bunny161x161.jpg" crc="352868565" seo="true" ref="homewear">
+      <caption webpage="homewear" alt=""/>
+    </file>
+    <file name="button-kitchen-on-u117282.png" crc="4192425809" ref="homewear"/>
+    <file name="bahan-apron.png" crc="4189712864" seo="true" ref="homewear">
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
+    </file>
+    <file name="warna-apron.png" crc="3770133580" seo="true" ref="homewear">
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
+    </file>
+    <file name="bg-farabi-crop-u9338.png" crc="281837761" seo="true" ref="farabi">
+      <caption webpage="farabi" alt=""/>
+    </file>
+    <file name="kemko farabi pdk.jpg" crc="407148516" seo="true" ref="farabi">
+      <caption webpage="farabi" alt=""/>
+    </file>
+    <file name="kemkid farabi pdk.jpg" crc="3888057280" seo="true" ref="farabi">
+      <caption webpage="farabi" alt=""/>
+    </file>
+    <file name="button-farabi-on-u12141.png" crc="4056080468" ref="farabi"/>
+    <file name="bg-farabi-crop-u93382.png" crc="3962653710" seo="true" ref="farabi">
+      <caption webpage="farabi" alt=""/>
+    </file>
+    <file name="kemko farabi pdk161x161.jpg" crc="4090193382" seo="true" ref="farabi">
+      <caption webpage="farabi" alt=""/>
+    </file>
+    <file name="kemkid farabi pdk161x161.jpg" crc="4136558338" seo="true" ref="farabi">
+      <caption webpage="farabi" alt=""/>
+    </file>
+    <file name="button-farabi-on-u121412.png" crc="477492825" ref="farabi"/>
+    <file name="bg-haleema-crop-u9720.png" crc="4136480353" seo="true" ref="haleema">
+      <caption webpage="haleema" alt=""/>
+    </file>
+    <file name="sleepwear haleema 2.jpg" crc="363947722" seo="true" ref="haleema">
+      <caption webpage="haleema" alt=""/>
+    </file>
+    <file name="button-haleema-on-u12226.png" crc="467444776" ref="haleema"/>
+    <file name="button-haleema-on.png" crc="220278079" seo="true" ref="haleema">
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+    </file>
+    <file name="bg-haleema-crop-u97202.png" crc="3785668941" seo="true" ref="haleema">
+      <caption webpage="haleema" alt=""/>
+    </file>
+    <file name="button-haleema-on-u122262.png" crc="3985573181" ref="haleema"/>
+    <file name="bg-haleema-crop-u115592.png" crc="3940318154" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg-kitchen-crop-u108952.png" crc="3913073484" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg-farabi-crop-u113502.png" crc="108965832" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg-finela-crop-u108312.png" crc="4130509547" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner-haleema386x153.png" crc="4218321430" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="back.svg" crc="424435456" seo="true" ref="farha:liyana:farabi:haleema:homewear">
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
+    </file>
+    <file name="back_poster_.png" crc="3996177572" ref="farha"/>
+    <file name="buy-farha-on.png" crc="4159997165" seo="true" ref="farha">
+      <caption webpage="farha" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="farha" alt=""/>
+    </file>
+    <file name="buy-farha-off.png" crc="467528706" seo="true" ref="farha">
+      <caption webpage="farha" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="farha" alt=""/>
+    </file>
+    <file name="logo rabbani - copy.png" crc="3903711824" seo="true" ref="farha:liyana:farabi:haleema:homewear">
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
+    </file>
+    <file name="logo-home-big.png" crc="132957261" seo="true" ref="farha:liyana:farabi:haleema:homewear">
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
+    </file>
+    <file name="banner-bottom231x141.png" crc="3784352893" seo="true" ref="farha">
+      <caption webpage="farha" alt=""/>
+    </file>
+    <file name="buy-liyana-on.png" crc="4213274735" seo="true" ref="liyana">
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="liyana" alt=""/>
     </file>
-    <file name="banner-couple.png" crc="2666266" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="buy-liyana-off.png" crc="226673767" seo="true" ref="liyana">
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
     </file>
-    <file name="banner-sleepwear384x152.png" crc="407364550" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="bg-farabi-1-crop-u16170.png" crc="3781965506" seo="true" ref="farabi">
+      <caption webpage="farabi" alt=""/>
     </file>
-    <file name="banner-couple384x151.png" crc="3780546074" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="buy-farabi-on.png" crc="4113537438" seo="true" ref="farabi">
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
     </file>
-    <file name="banner-kitchen194x237.png" crc="4003224541" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="buy-farabi-off.png" crc="4163560587" seo="true" ref="farabi">
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
+    </file>
+    <file name="bahan-farabi.png" crc="45925647" seo="true" ref="farabi">
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
+    </file>
+    <file name="warna-farabi.png" crc="394141045" seo="true" ref="farabi">
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
+    </file>
+    <file name="button-farabi-on.png" crc="4197536504" seo="true" ref="farabi">
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
+    </file>
+    <file name="bg-farabi-1-crop-u161702.png" crc="367438125" seo="true" ref="farabi">
+      <caption webpage="farabi" alt=""/>
+    </file>
+    <file name="haleema1-crop-u16355.png" crc="4040196858" seo="true" ref="haleema">
+      <caption webpage="haleema" alt=""/>
+    </file>
+    <file name="buy-haleem-on.png" crc="181184742" seo="true" ref="haleema">
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+    </file>
+    <file name="buy-haleema-off.png" crc="3954646872" seo="true" ref="haleema">
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+    </file>
+    <file name="bahan-haleema.png" crc="125311357" seo="true" ref="haleema">
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+    </file>
+    <file name="warna-haleema.png" crc="3782932573" seo="true" ref="haleema">
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+    </file>
+    <file name="ukuran-haleema.png" crc="4185033946" seo="true" ref="haleema">
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+    </file>
+    <file name="sleepwear haleema 2248x248.jpg" crc="120574306" seo="true" ref="haleema">
+      <caption webpage="haleema" alt=""/>
+    </file>
+    <file name="haleema1-crop-u163552.png" crc="104403756" seo="true" ref="haleema">
+      <caption webpage="haleema" alt=""/>
+    </file>
+    <file name="bg-kitchen-1.png" crc="55276621" seo="true" ref="homewear">
+      <caption webpage="homewear" alt=""/>
+    </file>
+    <file name="buy-kitchen-on.png" crc="4171374390" seo="true" ref="homewear">
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
+    </file>
+    <file name="buy-kitchen-off.png" crc="14103947" seo="true" ref="homewear">
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
+    </file>
+    <file name="bahan-glove.png" crc="3982016931" seo="true" ref="homewear">
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
+    </file>
+    <file name="warna-tissue.png" crc="333082198" seo="true" ref="homewear">
+      <caption webpage="homewear" alt=""/>
+      <caption webpage="homewear" alt=""/>
+    </file>
+    <file name="bg-kitchen-1290x148.png" crc="4196569091" seo="true" ref="homewear">
+      <caption webpage="homewear" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="95437931" seo="true" mt="1595393672462" redirect="true"/>
-  <file name="farha.html" crc="169589824" seo="true" mt="1595389488560" redirect="true"/>
-  <file name="liyana.html" crc="3774620301" seo="true" mt="1595393517076" redirect="true"/>
+  <file name="index.html" crc="349952838" seo="true" mt="1595829988752" redirect="true"/>
+  <file name="farha.html" crc="4043066984" seo="true" mt="1595831596238" redirect="true"/>
+  <file name="liyana.html" crc="461181613" seo="true" mt="1595831641495" redirect="true"/>
+  <file name="farabi.html" crc="4281898263" seo="true" mt="1595831664698" redirect="true"/>
+  <file name="haleema.html" crc="98194265" seo="true" mt="1595832745613" redirect="true"/>
+  <file name="homewear.html" crc="511641948" seo="true" mt="1595832276518" redirect="true"/>
 </manifest>
