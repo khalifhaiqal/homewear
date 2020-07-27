@@ -1,20 +1,20 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="homewear.rmall.id" resolutions="1x" timestamp="1595832770880">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="homewear.rmall.id" resolutions="1x" timestamp="1595833248255">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="411111690" ref="index:liyana:farha:farabi:homewear:haleema"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:liyana:farha:farabi:homewear:haleema"/>
     <file name="index.css" crc="46169332" ref="index"/>
     <file name="nomq_index.css" crc="3764578970" ref="index"/>
-    <file name="liyana.css" crc="3883034389" ref="liyana"/>
-    <file name="nomq_liyana.css" crc="402326565" ref="liyana"/>
-    <file name="farha.css" crc="221888728" ref="farha"/>
-    <file name="nomq_farha.css" crc="259044149" ref="farha"/>
-    <file name="farabi.css" crc="4161808580" ref="farabi"/>
-    <file name="nomq_farabi.css" crc="4011301525" ref="farabi"/>
-    <file name="homewear.css" crc="4098104598" ref="homewear"/>
-    <file name="nomq_homewear.css" crc="4024217065" ref="homewear"/>
-    <file name="haleema.css" crc="338032101" ref="haleema"/>
-    <file name="nomq_haleema.css" crc="368085297" ref="haleema"/>
+    <file name="liyana.css" crc="3874514934" ref="liyana"/>
+    <file name="nomq_liyana.css" crc="4039420385" ref="liyana"/>
+    <file name="farha.css" crc="4093691352" ref="farha"/>
+    <file name="nomq_farha.css" crc="180626648" ref="farha"/>
+    <file name="farabi.css" crc="243269206" ref="farabi"/>
+    <file name="nomq_farabi.css" crc="4275776198" ref="farabi"/>
+    <file name="homewear.css" crc="3887790977" ref="homewear"/>
+    <file name="nomq_homewear.css" crc="196350151" ref="homewear"/>
+    <file name="haleema.css" crc="522507696" ref="haleema"/>
+    <file name="nomq_haleema.css" crc="4110443704" ref="haleema"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:farha:liyana:farabi:haleema:homewear"/>
@@ -322,12 +322,12 @@
       <caption webpage="homewear" alt=""/>
     </file>
     <file name="ukuran.png" crc="4144159746" seo="true" ref="farha:liyana:farabi">
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="farha" alt=""/>
       <caption webpage="farha" alt=""/>
-      <caption webpage="farabi" alt=""/>
-      <caption webpage="farabi" alt=""/>
       <caption webpage="haleema" alt=""/>
       <caption webpage="haleema" alt=""/>
       <caption webpage="homewear" alt=""/>
@@ -358,42 +358,42 @@
       <caption webpage="liyana" alt=""/>
     </file>
     <file name="button-finela-on.png" crc="47745934" seo="true" ref="liyana">
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="farabi" alt=""/>
       <caption webpage="farabi" alt=""/>
-      <caption webpage="haleema" alt=""/>
-      <caption webpage="haleema" alt=""/>
-      <caption webpage="haleema" alt=""/>
-      <caption webpage="haleema" alt=""/>
     </file>
     <file name="finela 1.jpg" crc="387820035" seo="true" ref="liyana">
+      <caption webpage="liyana" alt=""/>
       <caption webpage="farabi" alt=""/>
       <caption webpage="haleema" alt=""/>
-      <caption webpage="liyana" alt=""/>
     </file>
     <file name="finela 2.jpg" crc="157454233" seo="true" ref="liyana">
+      <caption webpage="liyana" alt=""/>
       <caption webpage="farabi" alt=""/>
       <caption webpage="haleema" alt=""/>
-      <caption webpage="liyana" alt=""/>
     </file>
     <file name="bahan-liyana.png" crc="4070727990" seo="true" ref="liyana">
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="farabi" alt=""/>
       <caption webpage="farabi" alt=""/>
-      <caption webpage="haleema" alt=""/>
-      <caption webpage="haleema" alt=""/>
     </file>
     <file name="warna-liyana.png" crc="432149056" seo="true" ref="liyana">
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="farabi" alt=""/>
       <caption webpage="farabi" alt=""/>
-      <caption webpage="haleema" alt=""/>
-      <caption webpage="haleema" alt=""/>
     </file>
     <file name="bg-finela-crop-u82562.png" crc="4042899853" seo="true" ref="liyana">
       <caption webpage="liyana" alt=""/>
@@ -502,12 +502,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="back.svg" crc="424435456" seo="true" ref="farha:liyana:farabi:haleema:homewear">
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
       <caption webpage="farabi" alt=""/>
       <caption webpage="farabi" alt=""/>
       <caption webpage="farha" alt=""/>
       <caption webpage="farha" alt=""/>
-      <caption webpage="liyana" alt=""/>
-      <caption webpage="liyana" alt=""/>
       <caption webpage="haleema" alt=""/>
       <caption webpage="haleema" alt=""/>
       <caption webpage="homewear" alt=""/>
@@ -535,24 +535,24 @@
       <caption webpage="farha" alt=""/>
     </file>
     <file name="logo rabbani - copy.png" crc="3903711824" seo="true" ref="farha:liyana:farabi:haleema:homewear">
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
       <caption webpage="farabi" alt=""/>
       <caption webpage="farabi" alt=""/>
       <caption webpage="farha" alt=""/>
       <caption webpage="farha" alt=""/>
-      <caption webpage="liyana" alt=""/>
-      <caption webpage="liyana" alt=""/>
       <caption webpage="haleema" alt=""/>
       <caption webpage="haleema" alt=""/>
       <caption webpage="homewear" alt=""/>
       <caption webpage="homewear" alt=""/>
     </file>
     <file name="logo-home-big.png" crc="132957261" seo="true" ref="farha:liyana:farabi:haleema:homewear">
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
       <caption webpage="farabi" alt=""/>
       <caption webpage="farabi" alt=""/>
       <caption webpage="farha" alt=""/>
       <caption webpage="farha" alt=""/>
-      <caption webpage="liyana" alt=""/>
-      <caption webpage="liyana" alt=""/>
       <caption webpage="haleema" alt=""/>
       <caption webpage="haleema" alt=""/>
       <caption webpage="homewear" alt=""/>
@@ -668,9 +668,9 @@
     </file>
   </folder>
   <file name="index.html" crc="349952838" seo="true" mt="1595829988752" redirect="true"/>
-  <file name="farha.html" crc="4043066984" seo="true" mt="1595831596238" redirect="true"/>
-  <file name="liyana.html" crc="461181613" seo="true" mt="1595831641495" redirect="true"/>
-  <file name="farabi.html" crc="4281898263" seo="true" mt="1595831664698" redirect="true"/>
-  <file name="haleema.html" crc="98194265" seo="true" mt="1595832745613" redirect="true"/>
-  <file name="homewear.html" crc="511641948" seo="true" mt="1595832276518" redirect="true"/>
+  <file name="farha.html" crc="3840695297" seo="true" mt="1595833089584" redirect="true"/>
+  <file name="liyana.html" crc="228502388" seo="true" mt="1595833129032" redirect="true"/>
+  <file name="farabi.html" crc="129911264" seo="true" mt="1595833167334" redirect="true"/>
+  <file name="haleema.html" crc="3797907417" seo="true" mt="1595833232302" redirect="true"/>
+  <file name="homewear.html" crc="12408144" seo="true" mt="1595833188191" redirect="true"/>
 </manifest>
