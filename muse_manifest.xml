@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="homewear.rmall.id" resolutions="1x" timestamp="1595833248255">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="homewear.rmall.id" resolutions="1x" timestamp="1597047271217">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="411111690" ref="index:liyana:farha:farabi:homewear:haleema"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:liyana:farha:farabi:homewear:haleema"/>
-    <file name="index.css" crc="46169332" ref="index"/>
-    <file name="nomq_index.css" crc="3764578970" ref="index"/>
+    <file name="master_a-master.css" crc="351443521" ref="index:liyana:farha:farabi:homewear:haleema:sigra:zatan:fahim-azelia:cena:zewa:berdina:nafisah"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:liyana:farha:farabi:homewear:haleema:sigra:zatan:fahim-azelia:cena:zewa:berdina:nafisah"/>
+    <file name="index.css" crc="233219946" ref="index"/>
+    <file name="nomq_index.css" crc="306646726" ref="index"/>
     <file name="liyana.css" crc="3874514934" ref="liyana"/>
     <file name="nomq_liyana.css" crc="4039420385" ref="liyana"/>
     <file name="farha.css" crc="4093691352" ref="farha"/>
@@ -15,13 +15,27 @@
     <file name="nomq_homewear.css" crc="196350151" ref="homewear"/>
     <file name="haleema.css" crc="522507696" ref="haleema"/>
     <file name="nomq_haleema.css" crc="4110443704" ref="haleema"/>
+    <file name="sigra.css" crc="3853611193" ref="sigra"/>
+    <file name="nomq_sigra.css" crc="166601140" ref="sigra"/>
+    <file name="zatan.css" crc="132706401" ref="zatan"/>
+    <file name="nomq_zatan.css" crc="4201892971" ref="zatan"/>
+    <file name="fahim-azelia.css" crc="334669859" ref="fahim-azelia"/>
+    <file name="nomq_fahim-azelia.css" crc="4155034967" ref="fahim-azelia"/>
+    <file name="cena.css" crc="4292230694" ref="cena"/>
+    <file name="nomq_cena.css" crc="4003258863" ref="cena"/>
+    <file name="zewa.css" crc="531073134" ref="zewa"/>
+    <file name="nomq_zewa.css" crc="3777086078" ref="zewa"/>
+    <file name="berdina.css" crc="444533028" ref="berdina"/>
+    <file name="nomq_berdina.css" crc="152343677" ref="berdina"/>
+    <file name="nafisah.css" crc="3762334818" ref="nafisah"/>
+    <file name="nomq_nafisah.css" crc="4194870803" ref="nafisah"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:farha:liyana:farabi:haleema:homewear"/>
-    <file name="museutils.js" crc="340535759" ref="index:farha:liyana:farabi:haleema:homewear"/>
-    <file name="whatinput.js" crc="86476730" ref="index:farha:liyana:farabi:haleema:homewear"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:farha:liyana:farabi:haleema:homewear"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:farha:liyana:farabi:haleema:homewear"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:farha:liyana:farabi:haleema:homewear:zewa:fahim-azelia:berdina:nafisah:sigra:cena:zatan"/>
+    <file name="museutils.js" crc="340535759" ref="index:farha:liyana:farabi:haleema:homewear:zewa:fahim-azelia:berdina:nafisah:sigra:cena:zatan"/>
+    <file name="whatinput.js" crc="86476730" ref="index:farha:liyana:farabi:haleema:homewear:zewa:fahim-azelia:berdina:nafisah:sigra:cena:zatan"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:farha:liyana:farabi:haleema:homewear:zewa:fahim-azelia:berdina:nafisah:sigra:cena:zatan"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:farha:liyana:farabi:haleema:homewear:zewa:fahim-azelia:berdina:nafisah:sigra:cena:zatan"/>
     <file name="webpro.js" crc="4059564322" ref="index"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
@@ -31,28 +45,42 @@
     <file name="form_throttle.php" crc="4259590256" ref="index"/>
     <file name="form_process.php" crc="37464564" ref="index"/>
     <file name="form-u6121.php" crc="409271390" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index:farha:liyana:farabi:haleema:homewear"/>
-    <file name="require.js" crc="7928878" ref="index:farha:liyana:farabi:haleema:homewear"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:farha:liyana:farabi:haleema:homewear:zewa:fahim-azelia:berdina:nafisah:sigra:cena:zatan"/>
+    <file name="require.js" crc="7928878" ref="index:farha:liyana:farabi:haleema:homewear:zewa:fahim-azelia:berdina:nafisah:sigra:cena:zatan"/>
   </folder>
   <folder name="images">
-    <file name="logo-home.png" crc="3964396933" seo="true" ref="index:farha:liyana:farabi:haleema:homewear">
+    <file name="logo-home.png" crc="3964396933" seo="true" ref="index:farha:liyana:farabi:haleema:homewear:zewa:fahim-azelia:berdina:nafisah:sigra:cena:zatan">
+      <caption webpage="zewa" alt=""/>
+      <caption webpage="zewa" alt=""/>
+      <caption webpage="sigra" alt=""/>
+      <caption webpage="sigra" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="farha" alt=""/>
       <caption webpage="farha" alt=""/>
-      <caption webpage="liyana" alt=""/>
-      <caption webpage="liyana" alt=""/>
-      <caption webpage="farabi" alt=""/>
-      <caption webpage="farabi" alt=""/>
-      <caption webpage="haleema" alt=""/>
-      <caption webpage="haleema" alt=""/>
+      <caption webpage="cena" alt=""/>
+      <caption webpage="cena" alt=""/>
+      <caption webpage="zatan" alt=""/>
+      <caption webpage="zatan" alt=""/>
       <caption webpage="homewear" alt=""/>
       <caption webpage="homewear" alt=""/>
+      <caption webpage="nafisah" alt=""/>
+      <caption webpage="nafisah" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="fahim-azelia" alt=""/>
+      <caption webpage="fahim-azelia" alt=""/>
+      <caption webpage="berdina" alt=""/>
+      <caption webpage="berdina" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
     </file>
     <file name="banner-slideshow-1.jpg" crc="3951465422" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:farha:liyana:farabi:haleema:homewear"/>
+    <file name="blank.gif" crc="4208392903" ref="index:farha:liyana:farabi:haleema:homewear:zewa:fahim-azelia:berdina:nafisah:sigra:cena:zatan"/>
     <file name="banner-slideshow-2.jpg" crc="169404166" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -63,7 +91,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="banner-slideshow-5.jpg" crc="4292032992" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
@@ -97,12 +124,12 @@
     <file name="logo-liyana.png" crc="110717654" seo="true" ref="index:liyana">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="farabi" alt=""/>
       <caption webpage="farabi" alt=""/>
-      <caption webpage="haleema" alt=""/>
-      <caption webpage="haleema" alt=""/>
     </file>
     <file name="logo farabi.png" crc="4017990151" seo="true" ref="index:farabi">
       <caption webpage="index" alt=""/>
@@ -142,16 +169,16 @@
     <file name="button-finela-off.png" crc="3889063847" seo="true" ref="index:liyana">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="farabi" alt=""/>
       <caption webpage="farabi" alt=""/>
-      <caption webpage="haleema" alt=""/>
-      <caption webpage="haleema" alt=""/>
-      <caption webpage="haleema" alt=""/>
-      <caption webpage="haleema" alt=""/>
     </file>
     <file name="button-farabi-off.png" crc="224316846" seo="true" ref="index:farabi">
       <caption webpage="index" alt=""/>
@@ -170,69 +197,104 @@
       <caption webpage="haleema" alt=""/>
       <caption webpage="haleema" alt=""/>
     </file>
-    <file name="banner-bottom.png" crc="289668216" seo="true" ref="index:farha:liyana:farabi:haleema:homewear">
+    <file name="banner-bottom.png" crc="289668216" seo="true" ref="index:farha:liyana:farabi:haleema:homewear:zewa:fahim-azelia:berdina:nafisah:sigra:cena:zatan">
+      <caption webpage="zewa" alt=""/>
+      <caption webpage="sigra" alt=""/>
+      <caption webpage="liyana" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="farha" alt=""/>
-      <caption webpage="liyana" alt=""/>
-      <caption webpage="farabi" alt=""/>
-      <caption webpage="haleema" alt=""/>
+      <caption webpage="cena" alt=""/>
+      <caption webpage="zatan" alt=""/>
       <caption webpage="homewear" alt=""/>
+      <caption webpage="nafisah" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="fahim-azelia" alt=""/>
+      <caption webpage="berdina" alt=""/>
+      <caption webpage="farabi" alt=""/>
     </file>
     <file name="subs-headline.png" crc="495776627" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="farha" alt=""/>
-      <caption webpage="farha" alt=""/>
-      <caption webpage="liyana" alt=""/>
-      <caption webpage="liyana" alt=""/>
-      <caption webpage="farabi" alt=""/>
-      <caption webpage="farabi" alt=""/>
       <caption webpage="haleema" alt=""/>
       <caption webpage="haleema" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="farha" alt=""/>
       <caption webpage="homewear" alt=""/>
       <caption webpage="homewear" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
     </file>
     <file name="logo-bot.png" crc="3964561231" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="farha" alt=""/>
-      <caption webpage="farha" alt=""/>
-      <caption webpage="liyana" alt=""/>
-      <caption webpage="liyana" alt=""/>
-      <caption webpage="farabi" alt=""/>
-      <caption webpage="farabi" alt=""/>
       <caption webpage="haleema" alt=""/>
       <caption webpage="haleema" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="farha" alt=""/>
       <caption webpage="homewear" alt=""/>
       <caption webpage="homewear" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
     </file>
-    <file name="logo-logo.png" crc="513924879" seo="true" ref="index:farha:liyana:farabi:haleema:homewear">
+    <file name="logo-logo.png" crc="513924879" seo="true" ref="index:farha:liyana:farabi:haleema:homewear:zewa:fahim-azelia:berdina:nafisah:sigra:cena:zatan">
+      <caption webpage="zewa" alt=""/>
+      <caption webpage="zewa" alt=""/>
+      <caption webpage="sigra" alt=""/>
+      <caption webpage="sigra" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="farha" alt=""/>
       <caption webpage="farha" alt=""/>
-      <caption webpage="liyana" alt=""/>
-      <caption webpage="liyana" alt=""/>
-      <caption webpage="farabi" alt=""/>
-      <caption webpage="farabi" alt=""/>
-      <caption webpage="haleema" alt=""/>
-      <caption webpage="haleema" alt=""/>
+      <caption webpage="cena" alt=""/>
+      <caption webpage="cena" alt=""/>
+      <caption webpage="zatan" alt=""/>
+      <caption webpage="zatan" alt=""/>
       <caption webpage="homewear" alt=""/>
       <caption webpage="homewear" alt=""/>
+      <caption webpage="nafisah" alt=""/>
+      <caption webpage="nafisah" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="fahim-azelia" alt=""/>
+      <caption webpage="fahim-azelia" alt=""/>
+      <caption webpage="berdina" alt=""/>
+      <caption webpage="berdina" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
     </file>
-    <file name="copyright.png" crc="100796091" seo="true" ref="index:farha:liyana:farabi:haleema:homewear">
+    <file name="copyright.png" crc="100796091" seo="true" ref="index:farha:liyana:farabi:haleema:homewear:zewa:fahim-azelia:berdina:nafisah:sigra:cena:zatan">
+      <caption webpage="zewa" alt=""/>
+      <caption webpage="zewa" alt=""/>
+      <caption webpage="sigra" alt=""/>
+      <caption webpage="sigra" alt=""/>
+      <caption webpage="liyana" alt=""/>
+      <caption webpage="liyana" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="farha" alt=""/>
       <caption webpage="farha" alt=""/>
-      <caption webpage="liyana" alt=""/>
-      <caption webpage="liyana" alt=""/>
-      <caption webpage="farabi" alt=""/>
-      <caption webpage="farabi" alt=""/>
-      <caption webpage="haleema" alt=""/>
-      <caption webpage="haleema" alt=""/>
+      <caption webpage="cena" alt=""/>
+      <caption webpage="cena" alt=""/>
+      <caption webpage="zatan" alt=""/>
+      <caption webpage="zatan" alt=""/>
       <caption webpage="homewear" alt=""/>
       <caption webpage="homewear" alt=""/>
+      <caption webpage="nafisah" alt=""/>
+      <caption webpage="nafisah" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="fahim-azelia" alt=""/>
+      <caption webpage="fahim-azelia" alt=""/>
+      <caption webpage="berdina" alt=""/>
+      <caption webpage="berdina" alt=""/>
+      <caption webpage="farabi" alt=""/>
+      <caption webpage="farabi" alt=""/>
     </file>
     <file name="banner-slideshow-1385x233.jpg" crc="348307138" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -247,7 +309,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="banner-slideshow-5385x233.jpg" crc="3948472595" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="bg-haleema-crop-u11559.png" crc="4080472143" seo="true" ref="index">
@@ -501,19 +562,33 @@
     <file name="banner-haleema386x153.png" crc="4218321430" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="back.svg" crc="424435456" seo="true" ref="farha:liyana:farabi:haleema:homewear">
+    <file name="back.svg" crc="424435456" seo="true" ref="farha:liyana:farabi:haleema:homewear:zewa:fahim-azelia:berdina:nafisah:sigra:cena:zatan">
+      <caption webpage="sigra" alt=""/>
+      <caption webpage="sigra" alt=""/>
+      <caption webpage="fahim-azelia" alt=""/>
+      <caption webpage="fahim-azelia" alt=""/>
+      <caption webpage="nafisah" alt=""/>
+      <caption webpage="nafisah" alt=""/>
+      <caption webpage="cena" alt=""/>
+      <caption webpage="cena" alt=""/>
+      <caption webpage="berdina" alt=""/>
+      <caption webpage="berdina" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="zatan" alt=""/>
+      <caption webpage="zatan" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="farabi" alt=""/>
       <caption webpage="farabi" alt=""/>
-      <caption webpage="farha" alt=""/>
-      <caption webpage="farha" alt=""/>
-      <caption webpage="haleema" alt=""/>
-      <caption webpage="haleema" alt=""/>
       <caption webpage="homewear" alt=""/>
       <caption webpage="homewear" alt=""/>
+      <caption webpage="zewa" alt=""/>
+      <caption webpage="zewa" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
     </file>
-    <file name="back_poster_.png" crc="3996177572" ref="farha"/>
+    <file name="back_poster_.png" crc="3996177572" ref="farha:zewa"/>
     <file name="buy-farha-on.png" crc="4159997165" seo="true" ref="farha">
       <caption webpage="farha" alt=""/>
       <caption webpage="farha" alt=""/>
@@ -534,31 +609,60 @@
       <caption webpage="farha" alt=""/>
       <caption webpage="farha" alt=""/>
     </file>
-    <file name="logo rabbani - copy.png" crc="3903711824" seo="true" ref="farha:liyana:farabi:haleema:homewear">
+    <file name="logo rabbani - copy.png" crc="3903711824" seo="true" ref="farha:liyana:farabi:haleema:homewear:zewa:fahim-azelia:berdina:nafisah:sigra:cena:zatan">
+      <caption webpage="sigra" alt=""/>
+      <caption webpage="sigra" alt=""/>
+      <caption webpage="fahim-azelia" alt=""/>
+      <caption webpage="fahim-azelia" alt=""/>
+      <caption webpage="nafisah" alt=""/>
+      <caption webpage="nafisah" alt=""/>
+      <caption webpage="cena" alt=""/>
+      <caption webpage="cena" alt=""/>
+      <caption webpage="berdina" alt=""/>
+      <caption webpage="berdina" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="zatan" alt=""/>
+      <caption webpage="zatan" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="farabi" alt=""/>
       <caption webpage="farabi" alt=""/>
-      <caption webpage="farha" alt=""/>
-      <caption webpage="farha" alt=""/>
-      <caption webpage="haleema" alt=""/>
-      <caption webpage="haleema" alt=""/>
       <caption webpage="homewear" alt=""/>
       <caption webpage="homewear" alt=""/>
+      <caption webpage="zewa" alt=""/>
+      <caption webpage="zewa" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
     </file>
-    <file name="logo-home-big.png" crc="132957261" seo="true" ref="farha:liyana:farabi:haleema:homewear">
+    <file name="logo-home-big.png" crc="132957261" seo="true" ref="farha:liyana:farabi:haleema:homewear:zewa:fahim-azelia:berdina:nafisah:sigra:cena:zatan">
+      <caption webpage="sigra" alt=""/>
+      <caption webpage="sigra" alt=""/>
+      <caption webpage="fahim-azelia" alt=""/>
+      <caption webpage="fahim-azelia" alt=""/>
+      <caption webpage="nafisah" alt=""/>
+      <caption webpage="nafisah" alt=""/>
+      <caption webpage="cena" alt=""/>
+      <caption webpage="cena" alt=""/>
+      <caption webpage="berdina" alt=""/>
+      <caption webpage="berdina" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="farha" alt=""/>
+      <caption webpage="zatan" alt=""/>
+      <caption webpage="zatan" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="liyana" alt=""/>
       <caption webpage="farabi" alt=""/>
       <caption webpage="farabi" alt=""/>
-      <caption webpage="farha" alt=""/>
-      <caption webpage="farha" alt=""/>
-      <caption webpage="haleema" alt=""/>
-      <caption webpage="haleema" alt=""/>
       <caption webpage="homewear" alt=""/>
       <caption webpage="homewear" alt=""/>
+      <caption webpage="zewa" alt=""/>
+      <caption webpage="zewa" alt=""/>
+      <caption webpage="haleema" alt=""/>
+      <caption webpage="haleema" alt=""/>
     </file>
-    <file name="banner-bottom231x141.png" crc="3784352893" seo="true" ref="farha">
+    <file name="banner-bottom231x141.png" crc="3784352893" seo="true" ref="farha:zewa">
+      <caption webpage="zewa" alt=""/>
       <caption webpage="farha" alt=""/>
     </file>
     <file name="buy-liyana-on.png" crc="4213274735" seo="true" ref="liyana">
@@ -666,11 +770,575 @@
     <file name="bg-kitchen-1290x148.png" crc="4196569091" seo="true" ref="homewear">
       <caption webpage="homewear" alt=""/>
     </file>
+    <file name="bg-zatan-crop-u18681.png" crc="3808032767" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-zatan-on-u18684.png" crc="65391352" ref="index"/>
+    <file name="button-zatan-off.png" crc="413722813" seo="true" ref="index:zatan">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="zatan" alt=""/>
+      <caption webpage="zatan" alt=""/>
+      <caption webpage="zatan" alt=""/>
+      <caption webpage="zatan" alt=""/>
+    </file>
+    <file name="banner-zatan.jpg" crc="151864638" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-zatan.png" crc="4010987100" seo="true" ref="index:zatan">
+      <caption webpage="index" alt=""/>
+      <caption webpage="zatan" alt=""/>
+    </file>
+    <file name="bg-cena-crop-u18605.png" crc="206206856" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-cena-on-u18608.png" crc="3968490321" ref="index"/>
+    <file name="button-cena-off.png" crc="103617945" seo="true" ref="index:cena">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="cena" alt=""/>
+      <caption webpage="cena" alt=""/>
+      <caption webpage="cena" alt=""/>
+      <caption webpage="cena" alt=""/>
+    </file>
+    <file name="banner-cena-crop-u18612.png" crc="150962971" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-cena.png" crc="3847477295" seo="true" ref="index:cena">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="cena" alt=""/>
+      <caption webpage="cena" alt=""/>
+    </file>
+    <file name="bg-sigra-crop-u18468.png" crc="3790114306" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-sigra-on-u18471.png" crc="3762381163" ref="index"/>
+    <file name="button-sigra-off.png" crc="183361589" seo="true" ref="index:sigra">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="sigra" alt=""/>
+      <caption webpage="sigra" alt=""/>
+      <caption webpage="sigra" alt=""/>
+      <caption webpage="sigra" alt=""/>
+    </file>
+    <file name="banner-sigra.jpg" crc="3842059904" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-sigra.png" crc="4074917495" seo="true" ref="index:sigra">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="sigra" alt=""/>
+      <caption webpage="sigra" alt=""/>
+    </file>
+    <file name="bg-nafisah-crop-u18331.png" crc="4183394488" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner-nafisa.png" crc="416982760" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-nafisa-on-u18334.png" crc="3789549353" ref="index"/>
+    <file name="button-nafisa-off.png" crc="343794416" seo="true" ref="index:nafisah">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="nafisah" alt=""/>
+      <caption webpage="nafisah" alt=""/>
+      <caption webpage="nafisah" alt=""/>
+      <caption webpage="nafisah" alt=""/>
+    </file>
+    <file name="logo-nafisa.png" crc="196378745" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="nafisah" alt=""/>
+    </file>
+    <file name="bg-berdina-crop-u18252.png" crc="3773061699" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-berdina-on-u18255.png" crc="329544701" ref="index"/>
+    <file name="button-berdina-off.png" crc="443925798" seo="true" ref="index:berdina">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="berdina" alt=""/>
+      <caption webpage="berdina" alt=""/>
+      <caption webpage="berdina" alt=""/>
+      <caption webpage="berdina" alt=""/>
+    </file>
+    <file name="banner-berdina.jpg" crc="493055160" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-berdina285x159.png" crc="4196112016" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg-handuk-crop-u18115.png" crc="3988489626" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg-zewa-crop-u17999.png" crc="463637520" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner-zewa.png" crc="3835953648" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-zewa-on-u18006.png" crc="4099745635" ref="index"/>
+    <file name="button-zewa-off.png" crc="3933151272" seo="true" ref="index:zewa">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="zewa" alt=""/>
+      <caption webpage="zewa" alt=""/>
+      <caption webpage="zewa" alt=""/>
+      <caption webpage="zewa" alt=""/>
+    </file>
+    <file name="by rabbani-crop-u18098.png" crc="4251827195" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner-handuk.png" crc="4273275476" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-handuk.png" crc="288576885" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-handuk-on-u18195.png" crc="4209726595" ref="index"/>
+    <file name="button-handuk-off.png" crc="355804589" seo="true" ref="index:fahim-azelia">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="fahim-azelia" alt=""/>
+      <caption webpage="fahim-azelia" alt=""/>
+      <caption webpage="fahim-azelia" alt=""/>
+      <caption webpage="fahim-azelia" alt=""/>
+    </file>
+    <file name="bg-zatan-crop-u186812.png" crc="4224446684" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-zatan-on-u186842.png" crc="328815582" ref="index"/>
+    <file name="banner-zatan386x152.jpg" crc="423527303" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg-cena-crop-u186052.png" crc="531696020" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-cena-on-u186082.png" crc="3977493390" ref="index"/>
+    <file name="button-sigra-on-u184712.png" crc="3984018113" ref="index"/>
+    <file name="banner-sigra386x152.jpg" crc="4230981995" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg-nafisah-crop-u183312.png" crc="4130387509" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner-nafisa386x152.png" crc="19799124" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-nafisa-on-u183342.png" crc="4031350086" ref="index"/>
+    <file name="bg-handuk-crop-u181152.png" crc="4251845008" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg-zewa-crop-u179992.png" crc="4155267595" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner-zewa190x278.png" crc="3805411462" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-zewa-on-u180062.png" crc="4220479498" ref="index"/>
+    <file name="by rabbani-crop-u180982.png" crc="3775616099" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner-handuk191x245.png" crc="175769276" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-handuk161x129.png" crc="4108139157" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-handuk-on-u181952.png" crc="4282714729" ref="index"/>
+    <file name="bg-berdina-crop-u182522.png" crc="3868235619" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-berdina-on-u182552.png" crc="4239756628" ref="index"/>
+    <file name="banner-berdina386x152.jpg" crc="61927224" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="base-zewa.png" crc="3847845898" seo="true" ref="zewa">
+      <caption webpage="zewa" alt=""/>
+    </file>
+    <file name="button-zewa-on-u19053.png" crc="4099745635" ref="zewa"/>
+    <file name="by rabbani-crop-u19057.png" crc="240879555" seo="true" ref="zewa">
+      <caption webpage="zewa" alt=""/>
+    </file>
+    <file name="zewa-dad.jpg" crc="513154807" seo="true" ref="zewa">
+      <caption webpage="zewa" alt=""/>
+    </file>
+    <file name="zewa-mom.jpg" crc="3977341565" seo="true" ref="zewa">
+      <caption webpage="zewa" alt=""/>
+    </file>
+    <file name="buy-on-zewa.png" crc="3964053678" seo="true" ref="zewa">
+      <caption webpage="zewa" alt=""/>
+      <caption webpage="zewa" alt=""/>
+      <caption webpage="zewa" alt=""/>
+      <caption webpage="zewa" alt=""/>
+    </file>
+    <file name="buy-off- zewa.png" crc="4226959641" seo="true" ref="zewa">
+      <caption webpage="zewa" alt=""/>
+      <caption webpage="zewa" alt=""/>
+      <caption webpage="zewa" alt=""/>
+      <caption webpage="zewa" alt=""/>
+    </file>
+    <file name="bahan-zewa.png" crc="63427037" seo="true" ref="zewa">
+      <caption webpage="zewa" alt=""/>
+      <caption webpage="zewa" alt=""/>
+    </file>
+    <file name="warna-zewa.png" crc="311131472" seo="true" ref="zewa">
+      <caption webpage="zewa" alt=""/>
+      <caption webpage="zewa" alt=""/>
+    </file>
+    <file name="ukuran-zewa.png" crc="12753671" seo="true" ref="zewa">
+      <caption webpage="zewa" alt=""/>
+      <caption webpage="zewa" alt=""/>
+    </file>
+    <file name="button-zewa-on.png" crc="328603883" seo="true" ref="zewa">
+      <caption webpage="zewa" alt=""/>
+      <caption webpage="zewa" alt=""/>
+    </file>
+    <file name="zewa-mom161x161.jpg" crc="216298596" seo="true" ref="zewa">
+      <caption webpage="zewa" alt=""/>
+    </file>
+    <file name="base-zewa-crop-u18928.png" crc="492298842" seo="true" ref="zewa">
+      <caption webpage="zewa" alt=""/>
+    </file>
+    <file name="zewa-dad161x161.jpg" crc="516323926" seo="true" ref="zewa">
+      <caption webpage="zewa" alt=""/>
+    </file>
+    <file name="button-zewa-on-u190532.png" crc="4220479498" ref="zewa"/>
+    <file name="by rabbani-crop-u190572.png" crc="3775616099" seo="true" ref="zewa">
+      <caption webpage="zewa" alt=""/>
+    </file>
+    <file name="base-handuk.png" crc="3890814883" seo="true" ref="fahim-azelia">
+      <caption webpage="fahim-azelia" alt=""/>
+    </file>
+    <file name="logo-handuk-crop-u19206.png" crc="420587067" seo="true" ref="fahim-azelia">
+      <caption webpage="fahim-azelia" alt=""/>
+    </file>
+    <file name="button-handuk-on-u19210.png" crc="4017243847" ref="fahim-azelia"/>
+    <file name="handuk-fahim.jpg" crc="233117081" seo="true" ref="fahim-azelia">
+      <caption webpage="fahim-azelia" alt=""/>
+    </file>
+    <file name="handuk-azelia.jpg" crc="100758838" seo="true" ref="fahim-azelia">
+      <caption webpage="fahim-azelia" alt=""/>
+    </file>
+    <file name="buy-on-handuk.png" crc="4162158129" seo="true" ref="fahim-azelia">
+      <caption webpage="fahim-azelia" alt=""/>
+      <caption webpage="fahim-azelia" alt=""/>
+      <caption webpage="fahim-azelia" alt=""/>
+      <caption webpage="fahim-azelia" alt=""/>
+    </file>
+    <file name="buy-off-handuk.png" crc="262074430" seo="true" ref="fahim-azelia">
+      <caption webpage="fahim-azelia" alt=""/>
+      <caption webpage="fahim-azelia" alt=""/>
+      <caption webpage="fahim-azelia" alt=""/>
+      <caption webpage="fahim-azelia" alt=""/>
+    </file>
+    <file name="bahan-handuk.png" crc="4068940963" seo="true" ref="fahim-azelia">
+      <caption webpage="fahim-azelia" alt=""/>
+      <caption webpage="fahim-azelia" alt=""/>
+    </file>
+    <file name="warna-handuk.png" crc="4163168449" seo="true" ref="fahim-azelia">
+      <caption webpage="fahim-azelia" alt=""/>
+      <caption webpage="fahim-azelia" alt=""/>
+    </file>
+    <file name="ukuran-handuk.png" crc="476619299" seo="true" ref="fahim-azelia">
+      <caption webpage="fahim-azelia" alt=""/>
+      <caption webpage="fahim-azelia" alt=""/>
+    </file>
+    <file name="button-handuk-on.png" crc="3770990921" seo="true" ref="fahim-azelia">
+      <caption webpage="fahim-azelia" alt=""/>
+      <caption webpage="fahim-azelia" alt=""/>
+    </file>
+    <file name="handuk-azelia161x161.jpg" crc="4088780226" seo="true" ref="fahim-azelia">
+      <caption webpage="fahim-azelia" alt=""/>
+    </file>
+    <file name="base-handuk-crop-u19225.png" crc="55490241" seo="true" ref="fahim-azelia">
+      <caption webpage="fahim-azelia" alt=""/>
+    </file>
+    <file name="handuk-fahim161x161.jpg" crc="4164920353" seo="true" ref="fahim-azelia">
+      <caption webpage="fahim-azelia" alt=""/>
+    </file>
+    <file name="button-handuk-on-u192102.png" crc="4206936302" ref="fahim-azelia"/>
+    <file name="base-berdina.png" crc="74180360" seo="true" ref="berdina">
+      <caption webpage="berdina" alt=""/>
+    </file>
+    <file name="logo-berdina.png" crc="4196112016" seo="true" ref="berdina">
+      <caption webpage="berdina" alt=""/>
+    </file>
+    <file name="button-berdina-on-u19636.png" crc="4193833052" ref="berdina"/>
+    <file name="berdina.jpg" crc="141136986" seo="true" ref="berdina">
+      <caption webpage="berdina" alt=""/>
+    </file>
+    <file name="buy-on-berdina.png" crc="49183578" seo="true" ref="berdina">
+      <caption webpage="berdina" alt=""/>
+      <caption webpage="berdina" alt=""/>
+    </file>
+    <file name="buy-off-berdina.png" crc="43444880" seo="true" ref="berdina">
+      <caption webpage="berdina" alt=""/>
+      <caption webpage="berdina" alt=""/>
+    </file>
+    <file name="bahan-berdina.png" crc="4072898262" seo="true" ref="berdina">
+      <caption webpage="berdina" alt=""/>
+      <caption webpage="berdina" alt=""/>
+    </file>
+    <file name="warna-berdina.png" crc="4293324370" seo="true" ref="berdina">
+      <caption webpage="berdina" alt=""/>
+      <caption webpage="berdina" alt=""/>
+    </file>
+    <file name="ukuran-berdina.png" crc="52701075" seo="true" ref="berdina">
+      <caption webpage="berdina" alt=""/>
+      <caption webpage="berdina" alt=""/>
+    </file>
+    <file name="button-berdina-on.png" crc="4148360757" seo="true" ref="berdina">
+      <caption webpage="berdina" alt=""/>
+      <caption webpage="berdina" alt=""/>
+    </file>
+    <file name="base-berdina-crop-u19521.png" crc="136239435" seo="true" ref="berdina">
+      <caption webpage="berdina" alt=""/>
+    </file>
+    <file name="berdina248x248.jpg" crc="300719400" seo="true" ref="berdina">
+      <caption webpage="berdina" alt=""/>
+    </file>
+    <file name="button-berdina-on-u196362.png" crc="414560299" ref="berdina"/>
+    <file name="base-nafisah.png" crc="183711058" seo="true" ref="nafisah">
+      <caption webpage="nafisah" alt=""/>
+    </file>
+    <file name="logo-nafisa-crop-u20225.png" crc="3981170638" seo="true" ref="nafisah">
+      <caption webpage="nafisah" alt=""/>
+    </file>
+    <file name="button-nafisa-on-u20229.png" crc="4095273231" ref="nafisah"/>
+    <file name="by rabbani-crop-u20443.png" crc="377485098" seo="true" ref="nafisah">
+      <caption webpage="nafisah" alt=""/>
+    </file>
+    <file name="nafisah-mom.jpg" crc="3776398660" seo="true" ref="nafisah">
+      <caption webpage="nafisah" alt=""/>
+    </file>
+    <file name="nafisah-girl.jpg" crc="62630149" seo="true" ref="nafisah">
+      <caption webpage="nafisah" alt=""/>
+    </file>
+    <file name="buy-on-nafisah.png" crc="3875907593" seo="true" ref="nafisah">
+      <caption webpage="nafisah" alt=""/>
+      <caption webpage="nafisah" alt=""/>
+      <caption webpage="nafisah" alt=""/>
+      <caption webpage="nafisah" alt=""/>
+    </file>
+    <file name="buy-off-nafisah.png" crc="149818679" seo="true" ref="nafisah">
+      <caption webpage="nafisah" alt=""/>
+      <caption webpage="nafisah" alt=""/>
+      <caption webpage="nafisah" alt=""/>
+      <caption webpage="nafisah" alt=""/>
+    </file>
+    <file name="bahan-nafisah.png" crc="4121927046" seo="true" ref="nafisah">
+      <caption webpage="nafisah" alt=""/>
+      <caption webpage="nafisah" alt=""/>
+    </file>
+    <file name="warna-nafisah.png" crc="3798320800" seo="true" ref="nafisah">
+      <caption webpage="nafisah" alt=""/>
+      <caption webpage="nafisah" alt=""/>
+    </file>
+    <file name="ukuran-nafisah.png" crc="58598990" seo="true" ref="nafisah">
+      <caption webpage="nafisah" alt=""/>
+      <caption webpage="nafisah" alt=""/>
+    </file>
+    <file name="button-nafisa-on.png" crc="402841432" seo="true" ref="nafisah">
+      <caption webpage="nafisah" alt=""/>
+      <caption webpage="nafisah" alt=""/>
+    </file>
+    <file name="nafisah-girl161x161.jpg" crc="17346147" seo="true" ref="nafisah">
+      <caption webpage="nafisah" alt=""/>
+    </file>
+    <file name="base-nafisah-crop-u20217.png" crc="467551514" seo="true" ref="nafisah">
+      <caption webpage="nafisah" alt=""/>
+    </file>
+    <file name="nafisah-mom161x161.jpg" crc="4201384034" seo="true" ref="nafisah">
+      <caption webpage="nafisah" alt=""/>
+    </file>
+    <file name="button-nafisa-on-u202292.png" crc="520002812" ref="nafisah"/>
+    <file name="by rabbani-crop-u204432.png" crc="466301397" seo="true" ref="nafisah">
+      <caption webpage="nafisah" alt=""/>
+    </file>
+    <file name="base-sigra.jpg" crc="36758778" seo="true" ref="sigra">
+      <caption webpage="sigra" alt=""/>
+    </file>
+    <file name="button-sigra-on-u20718.png" crc="3975180091" ref="sigra"/>
+    <file name="sigra.jpg" crc="133166413" seo="true" ref="sigra">
+      <caption webpage="sigra" alt=""/>
+    </file>
+    <file name="buy-on-sigra.png" crc="135858017" seo="true" ref="sigra">
+      <caption webpage="sigra" alt=""/>
+      <caption webpage="sigra" alt=""/>
+    </file>
+    <file name="buy-off-sigra.png" crc="530213360" seo="true" ref="sigra">
+      <caption webpage="sigra" alt=""/>
+      <caption webpage="sigra" alt=""/>
+    </file>
+    <file name="bahan-sigra.png" crc="3888030661" seo="true" ref="sigra">
+      <caption webpage="sigra" alt=""/>
+      <caption webpage="sigra" alt=""/>
+    </file>
+    <file name="warna-sigra.png" crc="397136182" seo="true" ref="sigra">
+      <caption webpage="sigra" alt=""/>
+      <caption webpage="sigra" alt=""/>
+    </file>
+    <file name="ukuran-sigra.png" crc="200844822" seo="true" ref="sigra">
+      <caption webpage="sigra" alt=""/>
+      <caption webpage="sigra" alt=""/>
+    </file>
+    <file name="button-sigra-on.png" crc="3774831227" seo="true" ref="sigra">
+      <caption webpage="sigra" alt=""/>
+      <caption webpage="sigra" alt=""/>
+    </file>
+    <file name="base-sigra-crop-u20609.jpg" crc="3945688809" seo="true" ref="sigra">
+      <caption webpage="sigra" alt=""/>
+    </file>
+    <file name="sigra248x248.jpg" crc="370928926" seo="true" ref="sigra">
+      <caption webpage="sigra" alt=""/>
+    </file>
+    <file name="button-sigra-on-u207182.png" crc="198228590" ref="sigra"/>
+    <file name="base-cena.jpg" crc="479975421" seo="true" ref="cena">
+      <caption webpage="cena" alt=""/>
+    </file>
+    <file name="button-cena-on-u21016.png" crc="3884666915" ref="cena"/>
+    <file name="cena-mom.jpg" crc="3965564128" seo="true" ref="cena">
+      <caption webpage="cena" alt=""/>
+    </file>
+    <file name="cena-girl.jpg" crc="386905711" seo="true" ref="cena">
+      <caption webpage="cena" alt=""/>
+    </file>
+    <file name="buy-on-cena.png" crc="4077928986" seo="true" ref="cena">
+      <caption webpage="cena" alt=""/>
+      <caption webpage="cena" alt=""/>
+      <caption webpage="cena" alt=""/>
+      <caption webpage="cena" alt=""/>
+    </file>
+    <file name="buy-off-cena.png" crc="125743133" seo="true" ref="cena">
+      <caption webpage="cena" alt=""/>
+      <caption webpage="cena" alt=""/>
+      <caption webpage="cena" alt=""/>
+      <caption webpage="cena" alt=""/>
+    </file>
+    <file name="bahan-cena.png" crc="4058982730" seo="true" ref="cena">
+      <caption webpage="cena" alt=""/>
+      <caption webpage="cena" alt=""/>
+    </file>
+    <file name="warna-cena.png" crc="507408474" seo="true" ref="cena">
+      <caption webpage="cena" alt=""/>
+      <caption webpage="cena" alt=""/>
+    </file>
+    <file name="ukuran-cena.png" crc="4144159746" seo="true" ref="cena">
+      <caption webpage="cena" alt=""/>
+      <caption webpage="cena" alt=""/>
+    </file>
+    <file name="button-cena-on.png" crc="89179465" seo="true" ref="cena">
+      <caption webpage="cena" alt=""/>
+      <caption webpage="cena" alt=""/>
+    </file>
+    <file name="cena-girl161x160.jpg" crc="407159543" seo="true" ref="cena">
+      <caption webpage="cena" alt=""/>
+    </file>
+    <file name="base-cena-crop-u20993.jpg" crc="3873959694" seo="true" ref="cena">
+      <caption webpage="cena" alt=""/>
+    </file>
+    <file name="cena-mom161x161.jpg" crc="4189549143" seo="true" ref="cena">
+      <caption webpage="cena" alt=""/>
+    </file>
+    <file name="button-cena-on-u210162.png" crc="3798924893" ref="cena"/>
+    <file name="base-zatan.jpg" crc="495858622" seo="true" ref="zatan">
+      <caption webpage="zatan" alt=""/>
+    </file>
+    <file name="button-zatan-on-u21320.png" crc="3851034516" ref="zatan"/>
+    <file name="zatan-dad.jpg" crc="3947677106" seo="true" ref="zatan">
+      <caption webpage="zatan" alt=""/>
+    </file>
+    <file name="zatan-boy.jpg" crc="4250187224" seo="true" ref="zatan">
+      <caption webpage="zatan" alt=""/>
+    </file>
+    <file name="buy-on-zatan.png" crc="4271016465" seo="true" ref="zatan">
+      <caption webpage="zatan" alt=""/>
+      <caption webpage="zatan" alt=""/>
+      <caption webpage="zatan" alt=""/>
+      <caption webpage="zatan" alt=""/>
+    </file>
+    <file name="buy-off-zatan.png" crc="4204283023" seo="true" ref="zatan">
+      <caption webpage="zatan" alt=""/>
+      <caption webpage="zatan" alt=""/>
+      <caption webpage="zatan" alt=""/>
+      <caption webpage="zatan" alt=""/>
+    </file>
+    <file name="bahan-zatan.png" crc="4204895561" seo="true" ref="zatan">
+      <caption webpage="zatan" alt=""/>
+      <caption webpage="zatan" alt=""/>
+    </file>
+    <file name="warna-zatan.png" crc="164638952" seo="true" ref="zatan">
+      <caption webpage="zatan" alt=""/>
+      <caption webpage="zatan" alt=""/>
+    </file>
+    <file name="ukuran-zatan.png" crc="4144159746" seo="true" ref="zatan">
+      <caption webpage="zatan" alt=""/>
+      <caption webpage="zatan" alt=""/>
+    </file>
+    <file name="button-zatan-on.png" crc="274609122" seo="true" ref="zatan">
+      <caption webpage="zatan" alt=""/>
+      <caption webpage="zatan" alt=""/>
+    </file>
+    <file name="zatan-boy160x160.jpg" crc="3970303226" seo="true" ref="zatan">
+      <caption webpage="zatan" alt=""/>
+    </file>
+    <file name="base-zatan-crop-u21288.jpg" crc="406561091" seo="true" ref="zatan">
+      <caption webpage="zatan" alt=""/>
+    </file>
+    <file name="zatan-dad161x161.jpg" crc="113314400" seo="true" ref="zatan">
+      <caption webpage="zatan" alt=""/>
+    </file>
+    <file name="button-zatan-on-u213202.png" crc="3789857566" ref="zatan"/>
+    <file name="logo-zatan118x67.png" crc="4012800388" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner-cena359x156.png" crc="3973680456" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg-sigra-crop-u184682.png" crc="446077137" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-berdina125x70.png" crc="4230752491" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-handuk192x154.png" crc="202040010" seo="true" ref="fahim-azelia">
+      <caption webpage="fahim-azelia" alt=""/>
+    </file>
+    <file name="logo-berdina211x118.png" crc="4196112016" seo="true" ref="berdina">
+      <caption webpage="berdina" alt=""/>
+    </file>
+    <file name="logo-nafisa-crop-u202252.png" crc="274973549" seo="true" ref="nafisah">
+      <caption webpage="nafisah" alt=""/>
+    </file>
+    <file name="logo-zatan237x135.png" crc="4010987100" seo="true" ref="zatan">
+      <caption webpage="zatan" alt=""/>
+    </file>
+    <file name="sleepwear zewa.png" crc="528122499" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sleepwear zewa161x88.png" crc="4070327374" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sleepwear zewa276x151.png" crc="528122499" seo="true" ref="zewa">
+      <caption webpage="zewa" alt=""/>
+    </file>
+    <file name="sleepwear zewa170x93.png" crc="495758883" seo="true" ref="zewa">
+      <caption webpage="zewa" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="349952838" seo="true" mt="1595829988752" redirect="true"/>
+  <file name="index.html" crc="4216852914" seo="true" mt="1597047242770" redirect="true"/>
   <file name="farha.html" crc="3840695297" seo="true" mt="1595833089584" redirect="true"/>
   <file name="liyana.html" crc="228502388" seo="true" mt="1595833129032" redirect="true"/>
   <file name="farabi.html" crc="129911264" seo="true" mt="1595833167334" redirect="true"/>
   <file name="haleema.html" crc="3797907417" seo="true" mt="1595833232302" redirect="true"/>
   <file name="homewear.html" crc="12408144" seo="true" mt="1595833188191" redirect="true"/>
+  <file name="zewa.html" crc="3783203005" seo="true" mt="1597047031304" redirect="true"/>
+  <file name="fahim-azelia.html" crc="161545429" seo="true" mt="1597046099314" redirect="true"/>
+  <file name="berdina.html" crc="231904350" seo="true" mt="1597046054500" redirect="true"/>
+  <file name="nafisah.html" crc="4144732365" seo="true" mt="1597046275681" redirect="true"/>
+  <file name="sigra.html" crc="3783128531" seo="true" mt="1597046477007" redirect="true"/>
+  <file name="cena.html" crc="3862264588" seo="true" mt="1597046635686" redirect="true"/>
+  <file name="zatan.html" crc="254357744" seo="true" mt="1597046785302" redirect="true"/>
 </manifest>
