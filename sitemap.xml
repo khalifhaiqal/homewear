@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://homewear.rmall.id/index.html</loc>
-    <lastmod>2020-08-10</lastmod>
+    <lastmod>2020-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -289,6 +289,24 @@
     </image:image>
     <image:image>
       <image:loc>http://homewear.rmall.id/images/sleepwear%20zewa161x88.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/bg-clareta-crop-u23335.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-clareta.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/button-clareta-off.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/banner-clareta.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/bg-clareta-crop-u233352.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/banner-clareta384x152.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -989,7 +1007,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/sigra.html</loc>
-    <lastmod>2020-08-10</lastmod>
+    <lastmod>2020-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1012,6 +1030,9 @@
     </image:image>
     <image:image>
       <image:loc>http://homewear.rmall.id/images/logo-home-big.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/banner-bottom231x141.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://homewear.rmall.id/images/button-sigra-off.png</image:loc>
@@ -1189,6 +1210,69 @@
     </image:image>
     <image:image>
       <image:loc>http://homewear.rmall.id/images/logo-zatan237x135.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://homewear.rmall.id/clareta.html</loc>
+    <lastmod>2020-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-home.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/banner-bottom.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/copyright.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo%20rabbani%20-%20copy.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-home-big.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/ukuran-berdina.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/button-clareta-off.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/base-clareta-crop-u23544.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-clareta-1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/clareta.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/buy-on-clareta.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/buy-off-clareta.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/bahan-clareta.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/warna-clareta.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/button-clareta-on.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/base-clareta-crop-u235442.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/clareta248x248.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
