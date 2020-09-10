@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://homewear.rmall.id/index.html</loc>
-    <lastmod>2020-09-02</lastmod>
+    <lastmod>2020-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -500,10 +500,133 @@
     <image:image>
       <image:loc>http://homewear.rmall.id/images/logo-kona261x160.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/bg-bayi-1-crop-u29273.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/button-bayi-1-off.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/banner-bayi-1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-bayi-1226x163.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/bg-bukhari-crop-u29284.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/banner-bukhari.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/button-bukhari-off.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-bukhari.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/bg-helmia-crop-u29295.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/button-helmia-off.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/banner-helmia.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-helmia.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/bg-khairan-crop-u29306.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/banner-khairan.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-khairan.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/button-khairan-off.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/bg-azalya-crop-u29317.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/bg-atira-arora-crop-u29319.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/banner-atira-arora-crop-u29321.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-atira-arora.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/button-atira-arora-off.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/banner-azalya.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-azalya.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/button-azalya-off.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/bg-bayi-1-crop-u292732.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/banner-bayi-1385x152.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-bayi-190x65.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/bg-bukhari-crop-u292842.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/banner-bukhari386x152.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-bukhari113x63.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/bg-helmia-crop-u292952.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/banner-helmia386x152.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-helmia125x61.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/bg-khairan-crop-u293062.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/banner-khairan191x235.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/bg-azalya-crop-u293172.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/bg-atira-arora-crop-u293192.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/banner-atira-arora189x291.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-atira-arora158x118.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/banner-azalya191x235.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-azalya161x118.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://homewear.rmall.id/farha.html</loc>
-    <lastmod>2020-07-27</lastmod>
+    <lastmod>2020-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -593,7 +716,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/liyana.html</loc>
-    <lastmod>2020-07-27</lastmod>
+    <lastmod>2020-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -668,7 +791,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/farabi.html</loc>
-    <lastmod>2020-09-01</lastmod>
+    <lastmod>2020-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -720,9 +843,6 @@
       <image:loc>http://homewear.rmall.id/images/logo-home-big.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://homewear.rmall.id/images/banner-bottom231x141.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://homewear.rmall.id/images/bg-farabi-1-crop-u16170.png</image:loc>
     </image:image>
     <image:image>
@@ -746,7 +866,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/haleema.html</loc>
-    <lastmod>2020-07-27</lastmod>
+    <lastmod>2020-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -815,7 +935,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/homewear.html</loc>
-    <lastmod>2020-07-27</lastmod>
+    <lastmod>2020-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -905,7 +1025,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/zewa.html</loc>
-    <lastmod>2020-08-10</lastmod>
+    <lastmod>2020-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -928,9 +1048,6 @@
     </image:image>
     <image:image>
       <image:loc>http://homewear.rmall.id/images/logo-home-big.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://homewear.rmall.id/images/banner-bottom231x141.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://homewear.rmall.id/images/button-zewa-off.png</image:loc>
@@ -986,7 +1103,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/fahim-azelia.html</loc>
-    <lastmod>2020-08-10</lastmod>
+    <lastmod>2020-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1058,7 +1175,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/berdina.html</loc>
-    <lastmod>2020-08-10</lastmod>
+    <lastmod>2020-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1124,7 +1241,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/nafisah.html</loc>
-    <lastmod>2020-08-10</lastmod>
+    <lastmod>2020-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1202,7 +1319,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/sigra.html</loc>
-    <lastmod>2020-08-14</lastmod>
+    <lastmod>2020-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1225,9 +1342,6 @@
     </image:image>
     <image:image>
       <image:loc>http://homewear.rmall.id/images/logo-home-big.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://homewear.rmall.id/images/banner-bottom231x141.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://homewear.rmall.id/images/button-sigra-off.png</image:loc>
@@ -1268,7 +1382,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/cena.html</loc>
-    <lastmod>2020-08-10</lastmod>
+    <lastmod>2020-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1337,7 +1451,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/zatan.html</loc>
-    <lastmod>2020-08-10</lastmod>
+    <lastmod>2020-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1409,7 +1523,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/clareta.html</loc>
-    <lastmod>2020-08-14</lastmod>
+    <lastmod>2020-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1472,7 +1586,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/natari.html</loc>
-    <lastmod>2020-09-01</lastmod>
+    <lastmod>2020-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1538,7 +1652,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/syams.html</loc>
-    <lastmod>2020-09-01</lastmod>
+    <lastmod>2020-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1610,7 +1724,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/zefana.html</loc>
-    <lastmod>2020-09-01</lastmod>
+    <lastmod>2020-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1679,7 +1793,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/emili.html</loc>
-    <lastmod>2020-09-01</lastmod>
+    <lastmod>2020-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1745,7 +1859,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/keinara.html</loc>
-    <lastmod>2020-09-01</lastmod>
+    <lastmod>2020-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1817,7 +1931,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/perlengkapan-bayi.html</loc>
-    <lastmod>2020-09-01</lastmod>
+    <lastmod>2020-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1922,7 +2036,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/kona.html</loc>
-    <lastmod>2020-09-02</lastmod>
+    <lastmod>2020-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1945,9 +2059,6 @@
     </image:image>
     <image:image>
       <image:loc>http://homewear.rmall.id/images/logo-home-big.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://homewear.rmall.id/images/banner-bottom231x141.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://homewear.rmall.id/images/button-kona-off.png</image:loc>
@@ -1991,7 +2102,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/benta.html</loc>
-    <lastmod>2020-09-02</lastmod>
+    <lastmod>2020-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2057,7 +2168,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/faika.html</loc>
-    <lastmod>2020-09-02</lastmod>
+    <lastmod>2020-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2119,6 +2230,438 @@
     </image:image>
     <image:image>
       <image:loc>http://homewear.rmall.id/images/21%201248x248.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://homewear.rmall.id/atira-arora.html</loc>
+    <lastmod>2020-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-home.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/banner-bottom.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/copyright.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo%20rabbani%20-%20copy.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-home-big.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/ukuran-zatan.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/button-syams-off.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/buy-on-syams.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/buy-off-syams.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/button-syams-on.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/base-atira.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-atira-arora236x175.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/atira%202.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/arora%201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/bahan-atira.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/warna-atira.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/base-atira-crop-u30136.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-atira-arora180x134.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/atira%202161x161.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/arora%201160x160.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://homewear.rmall.id/azalya.html</loc>
+    <lastmod>2020-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-home.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/banner-bottom.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/copyright.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo%20rabbani%20-%20copy.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-home-big.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/button-kona-off.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/buy-on-kona.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/buy-off-kona.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/button-kona-on.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/base-azalya.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-azalya236x174.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/azalya%205.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/bahan-azalya.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/warna-azalya.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/ukuran-azalya.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/base-azalya-crop-u30334.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-azalya164x121.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/azalya%205248x248.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://homewear.rmall.id/khairan.html</loc>
+    <lastmod>2020-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-home.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/button-finela-off.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/banner-bottom.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/copyright.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/ukuran.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/button-finela-on.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo%20rabbani%20-%20copy.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-home-big.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/buy-liyana-on.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/buy-liyana-off.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-khairan.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/base-khairan-crop-u31013.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/khairan%2010.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/khairan%2012.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/bahan-khairan.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/warna-khairan.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/base-khairan-crop-u310132.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/khairan%2010161x161.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/khairan%2012161x161.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://homewear.rmall.id/helmia.html</loc>
+    <lastmod>2020-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-home.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/banner-bottom.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/copyright.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo%20rabbani%20-%20copy.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-home-big.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/button-emili-off.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/buy-on-emili.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/buy-off-emili.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/bahan-emili.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/warna-emili.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/button-emili-on.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/ukuran-faika.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/base-helmia.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-helmia315x153.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/helmia%207.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/base-helmia-crop-u31628.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-helmia210x102.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/helmia%207248x248.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://homewear.rmall.id/bukhari.html</loc>
+    <lastmod>2020-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-home.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/banner-bottom.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/copyright.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo%20rabbani%20-%20copy.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-home-big.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/button-cena-off.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/buy-on-cena.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/buy-off-cena.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/ukuran-cena.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/button-cena-on.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/base-bukhari.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-bukhari237x133.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/bukhari%2013.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/bukhari%2015.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/bahan-bukhari.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/warna-bukhari.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/base-bukhari-crop-u32100.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-bukhari120x67.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/bukhari%2013161x161.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/bukhari%2015160x160.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://homewear.rmall.id/perlengkapan---mainan-bayi.html</loc>
+    <lastmod>2020-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-home.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/button-finela-off.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/banner-bottom.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/copyright.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/button-finela-on.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo%20rabbani%20-%20copy.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-home-big.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/buy-liyana-on.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/buy-liyana-off.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/bahan-bayi1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/warna-bayi1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/base-bayi-1-crop-u32530.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-bayi-1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/syahlaa%202%2020.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/haya%2020.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/yuki%2020.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/flopsy%2020.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/toky%2016.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/base-bayi-1-crop-u325302.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-bayi-1164x118.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/syahlaa%202%2020161x161.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/haya%2020161x161.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/yuki%2020161x161.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/flopsy%2020161x161.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/toky%2016161x161.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
