@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://homewear.rmall.id/index.html</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -75,12 +75,6 @@
       <image:loc>http://homewear.rmall.id/images/banner-bottom.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://homewear.rmall.id/images/subs-headline.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://homewear.rmall.id/images/logo-bot.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://homewear.rmall.id/images/logo-logo.png</image:loc>
     </image:image>
     <image:image>
@@ -129,9 +123,6 @@
       <image:loc>http://homewear.rmall.id/images/banner-kitchen194x237.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://homewear.rmall.id/images/banner-bottom164x101.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://homewear.rmall.id/images/bg-haleema-crop-u115592.png</image:loc>
     </image:image>
     <image:image>
@@ -145,6 +136,15 @@
     </image:image>
     <image:image>
       <image:loc>http://homewear.rmall.id/images/banner-haleema386x153.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo%20rabbani%20-%20copy.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/logo-home-big.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://homewear.rmall.id/images/banner-bottom231x141.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://homewear.rmall.id/images/bg-zatan-crop-u18681.png</image:loc>
@@ -626,7 +626,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/farha.html</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -710,13 +710,10 @@
     <image:image>
       <image:loc>http://homewear.rmall.id/images/logo-home-big.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://homewear.rmall.id/images/banner-bottom231x141.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://homewear.rmall.id/liyana.html</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -791,7 +788,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/farabi.html</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -866,7 +863,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/haleema.html</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -935,7 +932,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/homewear.html</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1025,7 +1022,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/zewa.html</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1103,7 +1100,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/fahim-azelia.html</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1175,7 +1172,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/berdina.html</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1241,7 +1238,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/nafisah.html</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1319,7 +1316,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/sigra.html</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1382,7 +1379,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/cena.html</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1451,7 +1448,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/zatan.html</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1523,7 +1520,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/clareta.html</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1586,7 +1583,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/natari.html</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1652,7 +1649,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/syams.html</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1724,7 +1721,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/zefana.html</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1793,7 +1790,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/emili.html</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1859,7 +1856,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/keinara.html</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1931,7 +1928,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/perlengkapan-bayi.html</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2036,7 +2033,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/kona.html</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2102,7 +2099,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/benta.html</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2168,7 +2165,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/faika.html</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2234,7 +2231,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/atira-arora.html</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2306,7 +2303,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/azalya.html</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2372,7 +2369,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/khairan.html</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2441,7 +2438,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/helmia.html</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2507,7 +2504,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/bukhari.html</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2579,7 +2576,7 @@
   </url>
   <url>
     <loc>http://homewear.rmall.id/perlengkapan---mainan-bayi.html</loc>
-    <lastmod>2020-09-10</lastmod>
+    <lastmod>2020-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
